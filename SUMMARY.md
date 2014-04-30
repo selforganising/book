@@ -1,0 +1,5 @@
+* [Before we start](intro/README.md)
+  * [Course guide](intro/guide.md)
+  * [Curriculum](intro/curriculum.md)
+* [Week 1](posts/README.md)
+  * [Day 1](posts/01.md)
