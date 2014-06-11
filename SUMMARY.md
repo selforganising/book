@@ -1,4 +1,4 @@
-* [Before we start](intro/README.md)
+* [Welcome](intro/README.md)
   * [Course guide](intro/guide.md)
   * [Curriculum](intro/curriculum.md)
 * [Week 1](posts/README.md)
