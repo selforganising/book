@@ -1,6 +1,6 @@
 _March 25, 2014_
 
-update...
+To be re-written.
 
 This course is a development of _"Coding the Web"_, a six-week course that ran earlier in the year, which in turn grew out of the [Self-organising](http://selforganising.org/) study groups that ran throughout 2013. Like _Coding the web_ and like the study groups, we are going to be basing this course around online content.
 
