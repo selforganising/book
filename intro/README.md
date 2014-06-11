@@ -1,5 +1,7 @@
 _March 25, 2014_
 
+update...
+
 This course is a development of _"Coding the Web"_, a six-week course that ran earlier in the year, which in turn grew out of the [Self-organising](http://selforganising.org/) study groups that ran throughout 2013. Like _Coding the web_ and like the study groups, we are going to be basing this course around online content.
 
 But _Founders & Coders_ is not just about offering a space for you to use materials that are already freely available online. We will be creating a structured learning environment with seminars and code reviews every day, with tutorial support, and with a lot of additional content. We will also spend a lot of time working in small groups and programming in pairs.
