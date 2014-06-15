@@ -1,0 +1,12 @@
+# Roles
+
+###As well as working on different parts of the project together, there will be four specific roles within each group:
+
+### * Journalist, who will create a daily record of the group’s work on their group blog;
+### * Project manager, who will run the morning scrum;
+### * Tutor, who will prepare a daily five-minute tutorial;
+### * Presenter, who will prepare a daily five-minute presentation of working code.  
+
+###Decide in your groups who is going to take which role and stick with that role for the length of the project.
+
+###The roles will be rotated each week.
