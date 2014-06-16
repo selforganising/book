@@ -2,6 +2,7 @@
   * [Workload](about/workload.md)
   * [Timetable](about/timetable.md)
   * [Etiquette](about/etiquette.md)
+  * [Facilities](about/facilities.md)
   * [Health](about/health.md)
   * [Course structure](about/course.md)
   * [Groups](about/groups.md)
