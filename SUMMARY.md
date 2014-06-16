@@ -10,3 +10,4 @@
   * [Topic map](about/topics.md)
 * [Assignments](assignments/README.md)
   * [Pre-course assignments](assignments/pre.md)
+  * [Week 1](assignments/week1.md)
