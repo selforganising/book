@@ -1,3 +1,5 @@
+# Pre-course assignments
+
 #####[Stanford's Computer Science 101](https://www.coursera.org/course/cs101)
 
 CS101 is a gentle introduction to programming concepts that uses (a slightly doctored version of) JavaScript, so it is perfect for our purposes. Expect to spend about 10-15 hours on it, including watching the lectures and completing the exercises.

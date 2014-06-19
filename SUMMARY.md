@@ -11,3 +11,4 @@
 * [Assignments](assignments/README.md)
   * [Pre-course assignments](assignments/pre.md)
   * [Week 1](assignments/week1.md)
+  * [Week 1 homework](assignments/week1homework.md)
