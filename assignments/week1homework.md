@@ -1,4 +1,4 @@
-# Week 1 homework
+B# Week 1 homework
 
 ##Finish off pre-course assignments
 
@@ -12,7 +12,7 @@ Start with [Git for the lazy](http://wiki.spheredev.org/Git_for_the_lazy) and [g
 
 Take a look at these videos: [Git Basics](http://git-scm.com/videos) and [GitHub & Git Foundations](http://vimeo.com/album/2763106/video/88271920). 
 
-And try out these online tutorials: [Git Immersion](http://gitimmersion.com/) and [learnGitBranching](http://pcottle.github.io/learnGitBranching/). These both cover similar ground. Try them both out. See which one you find most useful.
+And try out these online tutorials: [Git Immersion](http://gitimmersion.com/) and [learnGitBranching](http://pcottle.github.io/learnGitBranching/). They both cover similar ground. Try them both out. See which one you find most useful.
 
 ##Chrome DevTools
 
