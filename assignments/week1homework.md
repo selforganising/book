@@ -16,7 +16,7 @@ And try out these online tutorials: [Git Immersion](http://gitimmersion.com/) an
 
 ##Chrome DevTools
 
-Start work on the [Discover DevTools](http://discover-devtools.codeschool.com/) course at Code School. The DevTools are going to be be essential for Week 2 and beyond.
+Start work on the [Discover DevTools](http://discover-devtools.codeschool.com/) course at Code School. The DevTools are going to be be essential from Week 2 onwards.
 
 
 
