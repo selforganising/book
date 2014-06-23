@@ -7,10 +7,12 @@
   * [Course structure](about/course.md)
   * [Groups](about/groups.md)
   * [Roles](about/roles.md)
+  * [Supervision and feedback](about/supervision.md)
   * [Topic map](about/topics.md)
 * [Assignments](assignments/README.md)
   * [Pre-course assignments](assignments/pre.md)
   * [Week 1](assignments/week1.md)
   * [Week 1 homework](assignments/week1homework.md)
+  * [Week 2](assignments/week2.md)
 * Journalism
   * [Social Media Campaign](journalism/social.md)
