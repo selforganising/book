@@ -16,3 +16,5 @@
   * [Week 2](assignments/week2.md)
 * Journalism
   * [Social Media Campaign](journalism/social.md)
+* [Seminars](seminars/README.md)
+  * [Functions in JavaScript](seminars/javascript-functions.md)
