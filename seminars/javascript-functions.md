@@ -40,7 +40,7 @@ This is just a function expression, but also giving the function a name (rather 
 
 ### An immediate function
 
-    (function(bar) {
+    (function() {
       // code... again
     }());
 
@@ -48,15 +48,11 @@ This function executes immediately.
 
 You can also write:
 
-    (function(bar) {
+    (function() {
       // code, for the last time
     })();
 
 Note the slightly different order of the parentheses.
-
-
-
-
 
     
 
