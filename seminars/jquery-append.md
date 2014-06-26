@@ -1,4 +1,4 @@
-# Using $.append() in jQuery
+# Using .append() in jQuery
 
 You can use `append` like this:
 
@@ -11,7 +11,7 @@ Where `results` is some list of objects.
 You can also do this:
 
     $.each(results, function(i, result) {
-      $( '#news' ).append($('<a>' {
+      $( '#news' ).append( $('<a>', {
         href: result.url,
         text: result.headline
       }));
@@ -19,7 +19,7 @@ You can also do this:
 Or you can use `appendTo`, which you may find easier on the eye.
 
     $.each(results, function(i, result) {
-      $('<a>' {
+      $('<a>', {
         href: result.url,
         text: result.headline
       }).appendTo('#news');
@@ -29,7 +29,7 @@ Even better would be:
 
     var links = '';
     $.each(results, function(i, result) {
-      links += $('<a>' {
+      links += $('<a>', {
         href: result.url,
         text: result.headline
       });
