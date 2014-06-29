@@ -1,7 +1,7 @@
 #Supervision and feedback
 
 ###Roles
-**Project Managers** and **Presenters** will have a group supervision every morning between 10am and 12pm; **Tutors** and **Journalists** every afternoon between 2pm and 4pm.
+**Presenters** and **Journalists** will have a group supervision every morning between 10am and 12pm; **Project managers** and **Tutors** every afternoon between 2pm and 4pm.
 
 ###Groups
 
@@ -11,6 +11,6 @@ All groups will have a supervision session on Wednesdays at some point during th
 
 There will be individual fortnightly supervision sessions with each student.
 
-###Teachers
+###Student feedback
 
-Every Tuesday at 5pm after the first week will be set aside for student feedback and at 5.30pm there will be a Strategy meeting for Founders & Coders. 
+Every Tuesday at 5pm will be set aside for student feedback and at 5.30pm we will hold a management meeting to which all students are invited. 
