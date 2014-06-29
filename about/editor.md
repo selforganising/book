@@ -1,4 +1,4 @@
-B# Journalist
+# Editor
 
 ## Responsibilities
 
