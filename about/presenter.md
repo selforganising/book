@@ -10,4 +10,4 @@
 
 ##First rule of presenting
 
-Do not say *"I"* in a presentation. You are presenting the group's work, not your own.
+Do not use the word *"I"* in a presentation where *"we"* would work just as well. You are presenting the group's work, not your own.

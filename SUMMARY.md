@@ -4,7 +4,6 @@
   * [Etiquette](about/etiquette.md)
   * [Facilities](about/facilities.md)
   * [Health](about/health.md)
-  * [Course structure](about/course.md)
   * [Groups](about/groups.md)
   * [Roles](about/roles.md)
   * [Project manager](about/project-manager.md)
@@ -19,6 +18,7 @@
   * [Week 1 homework](assignments/week1homework.md)
   * [Week 2](assignments/week2.md)
   * [Week 2 homework](assignments/week2homework.md)
+
 * Journalism
   * [Social Media Campaign](journalism/social.md)
 * [Seminars](seminars/README.md)
