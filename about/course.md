@@ -1,9 +1,8 @@
 # Course structure
 
-### We will work in groups of four.
+We will work in groups of four.
 
-### Each week we will work on a new project.
+Each week we will work on a new project.
 
-### We will also work our way through [nodeschool](http://nodeschool.io/).
 
 
