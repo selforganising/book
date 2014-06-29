@@ -11,7 +11,6 @@
   * [Presenter](about/presenter.md)
   * [Editor](about/editor.md)
   * [Tutor](about/tutor.md)
-  * [Daily schedule](about/daily-schedule.md)
   * [Supervision and feedback](about/supervision.md)
   * [Topic map](about/topics.md)
 * [Assignments](assignments/README.md)
