@@ -11,4 +11,4 @@
 * Use a variety of media for your reportage;
 * Run your group's social media campaign;
 * Ensure you are collecting stats on page impressions and social media reach;
-* Present daily updates of your blog, concentrating on any aspect, including content, layout or stats.
+* Present daily updates of your blog, concentrating on any aspect, including content, user experience or stats.

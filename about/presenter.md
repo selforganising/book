@@ -1,4 +1,4 @@
-# Presenter
+B# Presenter
 
 ## Responsibilities
 
@@ -8,6 +8,6 @@
 * Ensure that you have working code for your daily presentation;
 * Present your group's work at the daily code review.
 
-##First rule of presenting
+###First rule of presenting
 
 Do not use the word *"I"* in a presentation where *"we"* would work just as well. You are presenting the group's work, not your own.
