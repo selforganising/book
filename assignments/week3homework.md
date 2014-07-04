@@ -10,7 +10,7 @@ If you are tutoring next week, you might want to mine this guide for material.
 
 Two options:
 
-Either, read the *The Node Beginner Book*(http://www.nodebeginner.org/) and try working through the exercises.
+Either, read the [*The Node Beginner Book*](http://www.nodebeginner.org/) and try working through the exercises.
 
 Or, complete [*Level 1: Intro to Node.js*](http://node.codeschool.com/levels/1/) on Code School.
 
