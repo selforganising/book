@@ -4,7 +4,7 @@
 
 Two options:
 
-Either, read the [*The Node Beginner Book*](https://drive.google.com/file/d/0BzAAKt4fbFbgdTg3TDlqT2J1eDg/edit?usp=sharing)﻿ and try working through the exercises.
+Either, read the [*The Node Beginner Book*](https://drive.google.com/file/d/0BzAAKt4fbFbgdTg3TDlqT2J1eDg/edit?usp=sharing) and try working through the exercises.
 
 Or, complete [*Level 1: Intro to Node.js*](http://node.codeschool.com/levels/1/) on Code School.
 
