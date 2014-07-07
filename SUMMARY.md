@@ -22,7 +22,7 @@
   * [Week 3 homework](assignments/week3homework.md)
 * Journalism
   * [Social Media Campaign](journalism/social.md)
-* [Seminars](seminars/README.md)
-  * [Functions in JavaScript](seminars/javascript-functions.md)
-  * [Using .append() in jQuery](seminars/jquery-append.md)
-
+* [Topics](topics/README.md)
+  * [Functions in JavaScript](topics/javascript-functions.md)
+  * [Using .append() in jQuery](topics/jquery-append.md)
+  * [JavaScript Arrays](topics/arrays.md)
