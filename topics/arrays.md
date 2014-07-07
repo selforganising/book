@@ -55,7 +55,7 @@ And since ECMAScript 5 came out, you can iterate through a list with a callback:
         // do something
     });
 
-
+You can do more with arrays. Take a look at the [documenentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array).
 
 
 
