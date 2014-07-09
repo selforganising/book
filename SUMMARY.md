@@ -26,3 +26,4 @@
   * [Functions in JavaScript](topics/javascript-functions.md)
   * [Using .append() in jQuery](topics/jquery-append.md)
   * [JavaScript Arrays](topics/arrays.md)
+  * [Filter and map](topics/filter-map.md)

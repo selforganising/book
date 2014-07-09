@@ -4,7 +4,7 @@
 
 We will be building a Node.js application to access various social media APIs to collect posts for displaying on each of your blogs. 
 
-The initial task will be to create a gallery of tweeted images with the hashtag #foundersandcoders in response to a page request, using the Twitter API.
+The initial task will be to create a gallery of tweeted images with the hashtag #foundersandcoders on your blog, using the Twitter API and an application that responds to AJAX requests by serving JSON.
 
 If you successfully complete this task, there are a number of possible extension tasks that you can attempt:
 
@@ -25,7 +25,8 @@ There are a number of questions that you will have to answer to successfully com
 * How far back do tweets served by the Twitter API go;
 * How can we store and extract data locally;
 * How can we extract data from the Instagram API;
-* How can we nicely combine data from two different sources?
+* How can we nicely combine data from two different sources;
+* Where can we serve our application from?
 
 The complexity of this task is greater than last week's, but none of the pieces are necesarily harder than anything you have already tackled. The trick will be to understand how all the pieces fit together and to break the task down into manageable chunks.
 
