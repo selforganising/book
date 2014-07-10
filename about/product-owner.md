@@ -6,7 +6,8 @@
 * Act as the *Product Owner* (see [Agile software development](http://en.wikipedia.org/wiki/Agile_software_development));
 * In *PivotalTracker*, *Accept* or *Reject* delivered stories;
 * Ensure that you understand each *accepted* story;
-* Ensure that you have working code for your daily presentation.
+* Ensure that you have working code for your daily presentation;
+* Ensure that the group comes up with a weekly product idea.
 
 ###First rule of presenting
 

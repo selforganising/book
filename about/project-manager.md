@@ -9,6 +9,7 @@
 * Enforce a Git development strategy;
 * Present a daily project manager's report;
 * Ensure that the new roles in your team have been decided by lunchtime on Friday;
+* Run an agile retrospective ("Start, stop, continue");
 * Do a comprehensive handover to the new project manager on Friday afternoon.
  
 ## Recommendations
