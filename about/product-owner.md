@@ -2,12 +2,14 @@
 
 ## Responsibilities
 
-* Present your group's work at the daily code review;
 * Act as the *Product Owner* (see [Agile software development](http://en.wikipedia.org/wiki/Agile_software_development));
-* In *PivotalTracker*, *Accept* or *Reject* delivered stories;
-* Ensure that you understand each *accepted* story;
-* Ensure that you have working code for your daily presentation;
+* Present your group's work at the daily code review;
+* Ensure that you have working code for the daily code review;
 * Ensure that the group comes up with a weekly product idea.
+
+###PivotalTracker
+* In *PivotalTracker*, *Accept* or *Reject* delivered stories;
+* Ensure that you understand each *accepted* story.
 
 ###First rule of presenting
 

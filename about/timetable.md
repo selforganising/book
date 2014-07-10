@@ -9,8 +9,8 @@ Classes start at 10am and end at 6pm Monday to Friday.
 * *5pm* Editorial review
 * *5.15pm* Code review
 
-Tuesdays
-* *5.45* Weekly retrospective: start, stop, continue.
+Fridays
+* *2pm* Weekly retrospective: start, stop, continue.
 
 
 
