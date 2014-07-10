@@ -9,4 +9,3 @@ This book is the main reference for the course *Founders & Coders* currently bei
 
 The content and structure of the course has changed significantly for FCII.
 
-You are welcome to adapt the content to your own purposes.
