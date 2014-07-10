@@ -7,7 +7,7 @@
   * [Groups](about/groups.md)
   * [Roles](about/roles.md)
   * [Project manager](about/project-manager.md)
-  * [Project owner](about/project-owner.md)
+  * [Product owner](about/product-owner.md)
   * [Editor](about/editor.md)
   * [Tutor](about/tutor.md)
   * [Supervision and feedback](about/supervision.md)
