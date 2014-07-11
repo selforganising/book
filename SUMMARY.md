@@ -20,6 +20,7 @@
   * [Week 2 homework](assignments/week2homework.md)
   * [Week 3](assignments/week3.md)
   * [Week 3 homework](assignments/week3homework.md)
+  * [Week 4 homework](assignments/week4homework.md)
 * Journalism
   * [Social Media Campaign](journalism/social.md)
 * [Topics](topics/README.md)
