@@ -4,14 +4,16 @@
 
 * Run the planning session at the start of a project;
 * Run the morning scrum;
+* Make sure the group is adding tasks to the whiteboard 'grid';
 * Maintain the group's code repository on GitHub;
 * Enforce a Git development strategy;
-* Present a daily project manager's report;
-* Ensure that the new roles in your team have been decided by lunchtime on Friday;
+* Present a project manager's thought for the day;
 * Run an agile retrospective on Fridays ("start, stop, continue");
+* Ensure that the new roles in your team have been decided by lunchtime on Friday;
 * Do a comprehensive handover to the new project manager on Friday afternoon.
 
 ###PivotalTacker
+
 * Maintain the project backlog using [*PivotalTracker*](http://www.pivotaltracker.com/);
 * In project settings, *Start Iterations On* Monday, set the appropriate *Project Time Zone* and set the *Iteration Length* to 1 week;
 * After the planning session, re-write the agreed task list into *stories* and transfer them into the *backlog*;  

@@ -3,8 +3,8 @@
 ## Responsibilities
 
 * Make a daily contribution to the Founders & Coders Style Guide;
-* Present it at the lunchtime seminar;
-* Blog about it on your group's blog;
+* Present it at the afternoon seminar;
+* Produce one extended tutorial for your  blog;
 * Enforce style guidelines within your group.
 
 ## Inspiration
