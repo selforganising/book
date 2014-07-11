@@ -12,6 +12,8 @@
   * [Tutor](about/tutor.md)
   * [Supervision and feedback](about/supervision.md)
   * [Topic map](about/topics.md)
+* [Learning objectives](goals/README.md)
+  * [Week 4](goals/week4.md)
 * [Assignments](assignments/README.md)
   * [Pre-course assignments](assignments/pre.md)
   * [Week 1](assignments/week1.md)
