@@ -1,4 +1,4 @@
-# The project manager
+#Project manager
 
 ##Responsibilities:
 
