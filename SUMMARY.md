@@ -16,11 +16,8 @@
   * [Week 4](goals/week4.md)
 * [Assignments](assignments/README.md)
   * [Pre-course assignments](assignments/pre.md)
-  * [Week 1](assignments/week1.md)
   * [Week 1 homework](assignments/week1homework.md)
-  * [Week 2](assignments/week2.md)
   * [Week 2 homework](assignments/week2homework.md)
-  * [Week 3](assignments/week3.md)
   * [Week 3 homework](assignments/week3homework.md)
   * [Week 4 homework](assignments/week4homework.md)
 * Journalism
@@ -31,3 +28,4 @@
   * [JavaScript Arrays](topics/arrays.md)
   * [Filter and map](topics/filter-map.md)
   * [Control flow](topics/control-flow.md)
+  * [SVG, viewBox and path](topics/svg.md)
