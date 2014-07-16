@@ -29,3 +29,4 @@
   * [Filter and map](topics/filter-map.md)
   * [Control flow](topics/control-flow.md)
   * [SVG, viewBox and path](topics/svg.md)
+  * [Using D3](topics/map1.md)
