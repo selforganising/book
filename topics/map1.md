@@ -77,7 +77,7 @@ The [`d3.geo.path()`](https://github.com/mbostock/d3/wiki/Geo-Paths) method retu
 
 The `d3.geo.mercator()` method applies a [D3 projection](https://github.com/mbostock/d3/wiki/Geo-Projections).
 
-The final bit of magic going on here (which is a kind of magic that you should now be getting familiar with) is that when you concatenate functions using the `.` notation, the output of one function becomes the input of the next function, so that the output of `datum()` is inserted as the single argument of `d3.geo.path(), the output of which is then inserted as thesdingle argument of d3.geo.mercator()`.
+The final bit of magic going on here (which is a kind of magic that you should now be getting familiar with) is that when you concatenate functions using the `.` notation, the output of one function becomes the input of the next function. So, in this case, the output of `datum()` is inserted as the single argument of `d3.geo.path()`, the output of which is then inserted as thesdingle argument of d3.geo.mercator()`.
 
 So, to return to the original snippet:
 
