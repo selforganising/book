@@ -1,4 +1,4 @@
-# Let's build a map
+B# Let's build a map
 
 Mike Bostock's [great tutorial on D3](http://bost.ocks.org/mike/map/) contains the following chunk of code which display a small map of the British Isles.
 
@@ -77,7 +77,7 @@ The [`d3.geo.path()`](https://github.com/mbostock/d3/wiki/Geo-Paths) method retu
 
 The `d3.geo.mercator()` method applies a [D3 projection](https://github.com/mbostock/d3/wiki/Geo-Projections).
 
-The final bit of magic going on here is that the `d3.geo.mercator()` method takes a single argument, which is supplied by the value returned from `datum()`.
+The final bit of magic going on here (which is a kind of magic that you should now be getting familiar with) is that when you concatenate functions using the `.` notation, the output of one function becomes the input of the next function, so that the output of `datum()` is inserted as the single argument of `d3.geo.path(), the output of which is then inserted as thesdingle argument of d3.geo.mercator()`.
 
 So, to return to the original snippet:
 
@@ -91,3 +91,4 @@ So, to return to the original snippet:
 this can be read as:
 
 > Go and get the a json file of map data and when it returns (assuming no errors), add a path inside the previously-created svg element, take the returned map data, convert it into a usable form, apply a suitable projection, and add it as a `d` attribute to the newly-created path element.
+
