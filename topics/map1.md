@@ -1,4 +1,4 @@
-B# Let's build a map
+# Let's build a map
 
 Mike Bostock's [great tutorial on D3](http://bost.ocks.org/mike/map/) contains the following chunk of code which display a small map of the British Isles.
 

@@ -30,3 +30,4 @@
   * [Control flow](topics/control-flow.md)
   * [SVG, viewBox and path](topics/svg.md)
   * [Using D3](topics/map1.md)
+  * [D3 commands](topics/d3.md)
