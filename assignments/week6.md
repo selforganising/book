@@ -6,7 +6,9 @@ But before you get started, there are a number of tools and libraries to get fam
 
 ##express.js 
 
-A web application framework for Node.js. Express will give you a higher level of abtraction than Node.js on its own. Once you have learnt the basics, it will make web app development quicker.
+A web application framework for Node.js. [Express](http://expressjs.com/) will give you a higher level of abtraction than Node.js on its own. Once you have learnt the basics, it will make web app development quicker.
+
+Take a look at [Getting started](http://expressjs.com/guide.html).
 
 ##Databases
 
