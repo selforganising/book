@@ -1,3 +1,3 @@
-# Goals go here
+# Goals
 
  
