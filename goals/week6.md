@@ -1,6 +1,6 @@
 #Week 6 goals
 
-Primary objective of the week: To get familiar with what we consider the minimum set of essential tools web development tools for a full-stack web developer.
+Primary objective of the week: To get familiar with what we consider the minimum set of essential tools for a full-stack web developer.
 
 * Demonstrate the use of express.js to build a web application
 * Demonstrate the use of MongoDB to store and retrieve data
