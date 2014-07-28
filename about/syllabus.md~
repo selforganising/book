@@ -1,1 +1,32 @@
-ss
+# Syllabus
+
+## Week 1 Development environments, Source Control, agile development and building static websites
+
+PivotalTracker, Git, GitHub, GitHub pages, Jekyll, HTML, CSS, Bootstrap, Sass. Setting up on OS X, Windows or Unix.
+
+## Week 2 Client-side programming, JavaScript, the DOM, AJAX, APIs
+
+jQuery
+
+## Weeks 3: Server-side programming and APIs
+
+Node.js
+
+## Week 4: MVC, Databases, REST
+
+Express.js, MongoDB, Jade
+
+## Week 5: Build tools and testing
+
+Jasmine, Gulp, Bower
+
+## Week 6: Data visualisation
+
+D3.js
+
+## Week 7: Client-side MVC applications
+
+AngularJS
+
+## Week 8: Group projects
+

@@ -30,9 +30,9 @@ For those of you using Sublime Text, take a look at [How To Use SublimeLinter 3]
 
 We are going to use [jasmine](http://jasmine.github.io/), a JavaScript testing framework. Developed by Pivotal, who also created PivotalTracker.
 
-##CSS preprocessors
+##Stylesheet languages
 
-You may have come across mentions of [Sass](http://sass-lang.com/) or [Less](http://lesscss.org/), but we are going to use [stylus](http://learnboost.github.io/stylus/).
+You may have come across mentions of [Sass](http://sass-lang.com/) or [Less](http://lesscss.org/), or even [stylus](http://learnboost.github.io/stylus/). Try Sass first, with the SCSS syntax.
 
 ## Frontend build tools
 

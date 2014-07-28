@@ -33,3 +33,4 @@
   * [Using D3](topics/map1.md)
   * [D3 commands](topics/d3.md)
   * [Databases](topics/databases.md)
+  * [Jasmine](topics/jasmine.md)
