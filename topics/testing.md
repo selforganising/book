@@ -32,7 +32,7 @@ The `describe` block defines some scenario and each of the enclosed `it` blocks 
 
 ### Mocha
 
-For testing we are going to use [Mocha](), a JavaScript testing library. 
+For testing we are going to use [Mocha](http://visionmedia.github.io/mocha/), a JavaScript testing library. 
 
 Install Mocha as follows:
 
