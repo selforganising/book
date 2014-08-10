@@ -1,14 +1,10 @@
-#Project manager
+#Scrum master
 
 ##Responsibilities:
 
-* Run the planning session at the start of a project;
+* Run the planning session on Monday;
 * Run the morning scrum;
-* Make sure the group is adding tasks to the whiteboard 'grid';
-* Maintain the group's code repository on GitHub;
-* Enforce a Git development strategy;
-* Present a project manager's thought for the day;
-* Run an agile retrospective on Fridays ("start, stop, continue");
+* Run an agile retrospective on Friday ("start, stop, continue");
 * Ensure that the new roles in your team have been decided by lunchtime on Friday;
 * Do a comprehensive handover to the new project manager on Friday afternoon.
 
@@ -25,5 +21,5 @@
 
 * Watch [Introduction to the Concepts of Pivotal Tracker](http://youtu.be/bzCZysm5lG8);
 * Read [Agile software development](http://en.wikipedia.org/wiki/Agile_software_development)
-* Get your team to use [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html);
+
 

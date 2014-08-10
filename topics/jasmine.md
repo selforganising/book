@@ -1,5 +1,7 @@
 # Jasmine
 
+A [really simple demo](http://sofer.github.io/jasmine-demo/) (and here is [the repo](https://github.com/sofer/jasmine-demo)).
+
 ## A test suite
 
 A series of tests
@@ -66,7 +68,7 @@ We won't go into detail here, but they allow your tests to track calls to any fu
 
 ##Installation
 
-to get Jasmine running, follow the [installation instructions](https://github.com/pivotal/jasmine).
+to get Jasmine running, you can clone the [really simple demo](https://github.com/sofer/jasmine-demo)) or you can follow the [installation instructions](https://github.com/pivotal/jasmine).
 
 If you follow these instructions, you will get a bunch of files in your *jasmine* folder.
 
@@ -79,7 +81,6 @@ Take a look at *spec/PlayerSpec.js* and *src/Player.js*.
 You can run *SpecTunner.html* by starting `http-server` and navigating to it in your browser (`npm http-server` if you have not got it installed).
 
 Note that normally you would expect the *src* files to sit in your main application directory, not inside the jasmine directory.
-
 
 If you are feeling adventurous, you may also want to give [karma-jasmine](https://github.com/karma-runner/karma-jasmine) a go. See [Karma](http://karma-runner.github.io/0.12/index.html).
 
