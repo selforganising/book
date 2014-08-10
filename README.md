@@ -1,5 +1,5 @@
 
-# Welcome to Founders & Coders II
+# Welcome to Founders & Coders III
 
-## June 16, 2014
+## September 15, 2014
 
