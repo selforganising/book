@@ -2,7 +2,7 @@
 
 We are going to introduce testing right from the start of this course and we are going to use an approach to testing that fits in well with the agile approach and with the story-based project management tool that we are using.
 
-Before we write any other software, we are going to write test code to test the *expected behaviour* of our software. This approach is known as ***Behaviour-driven development***, or ***BDD***.
+Before we write any other software, we are going to write test code to test the *expected behaviour* of our software. This approach is known as ***behaviour-driven development***, or ***BDD***.
 
 ## BDD
 
@@ -80,12 +80,12 @@ A test script might look like this:
     describe('For a user, the home page', function() {
 
         it("should return status code 200 OK", function(done) {
-	    request.get('/')
+            request.get('/')
 	        .expect(200, done);
         });
 
         it("should return some text referencing 'Camden'", function(done) {
-	    request.get('/')
+            request.get('/')
 	        .expect(/Camden/, done);
         });
 
