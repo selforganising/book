@@ -81,12 +81,12 @@ A test script might look like this:
 
         it("should return status code 200 OK", function(done) {
             request.get('/')
-	        .expect(200, done);
+                .expect(200, done);
         });
 
         it("should return some text referencing 'Camden'", function(done) {
             request.get('/')
-	        .expect(/Camden/, done);
+                .expect(/Camden/, done);
         });
 
     });
