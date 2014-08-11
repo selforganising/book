@@ -38,7 +38,7 @@ Install Mocha as follows:
 
     npm install -g mocha
 
-In a new directoy, Create a file `test.js` and add the following:
+In a new directory, create a file `test.js` and add the following:
 
     var assert = require('assert');
 
