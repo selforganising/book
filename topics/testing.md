@@ -6,7 +6,7 @@ Before we write any other software, we are going to write test code to test the 
 
 ## BDD
 
-In BDD, we start with ***acceptance criteria***. These are the criteria that a non-technical user can use to judge whether an application works as intended. These criteria should map to the *user stories* as defined in the [sprint planning](topics/planning) sessions.
+In BDD, we start with ***acceptance criteria***. These are the criteria that a non-technical user can use to judge whether an application works as intended. These criteria should map to the *user stories* as defined in the [sprint planning](topics/sprint) sessions.
 
 ### User stories
 
@@ -99,6 +99,9 @@ And these should pass as follows:
 
     2 passing (459ms)
 
+(It is possible the first test will fail with *"Error: expected 200 "OK", got 302 "Moved Temporarily"*. If that happens, just run the test again.)
+
+[These examples are also on GitHub](https://github.com/selforganising/testing-examples).
 
 
 
