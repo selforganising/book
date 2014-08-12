@@ -12,9 +12,9 @@ In BDD, we start with ***acceptance criteria***. These are the criteria that a n
 
 Stories include a *scenario* and an *outcome*. An example might be:
 
-    For a User, the home page should display the text, "Hello, Camden Town"
+    When a user goes to the home page, it should display the text, "Hello, Camden Town"
 
-Stories should generally be of this *"For...should..."* form.
+Stories should generally be of this *"When... should..."* form.
 
 These *acceptance criteria*, expressed as *user stories* are then turned into ***acceptance tests***.
 
@@ -24,7 +24,7 @@ Acceptance tests are code that tests the outcome of a given user story. If a use
 
 In pseudo-code, a test might look something like this:
 
-    describe('For a User, the home page'):
+    describe('When a User goes to the home page'):
         it('should actually exist')
         it('should display the message, "Hello, Camden Town"')
 
@@ -77,7 +77,7 @@ A test script might look like this:
     var request = require('supertest');
     request = request('http://foundersandcoders.org/');
 
-    describe('For a user, the home page', function() {
+    describe('When a user goes to the home page', function() {
 
         it("should return status code 200 OK", function(done) {
             request.get('/')
@@ -93,7 +93,7 @@ A test script might look like this:
 
 And these should pass as follows:
 
-    For a user, the home page
+    When a user goes to the home page
       ✓ should return status code 200 OK (207ms)
       ✓ should return some text referencing 'Camden' (243ms)
 
@@ -102,6 +102,10 @@ And these should pass as follows:
 (It is possible the first test will fail with *"Error: expected 200 "OK", got 302 "Moved Temporarily"*. If that happens, just run the test again.)
 
 [These examples are also on GitHub](https://github.com/selforganising/testing-examples).
+
+### Note
+
+Testing is a big topic and we have just scratched the surface. There are also different ways to do BDD (see [Wikipedia](http://en.wikipedia.org/wiki/Behavior-driven_development)). The approach used here is a good jumping off point, but is not close to being exhaustive.
 
 
 
