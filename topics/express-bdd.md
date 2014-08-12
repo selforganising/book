@@ -1,4 +1,4 @@
-# Testing an Express application
+# Behaviour-driven development with an Express application
 
 Read [Testing](topics/testing) first.
 

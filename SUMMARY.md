@@ -47,5 +47,5 @@
   * [Using D3](topics/map1.md)
   * [D3 commands](topics/d3.md)
   * [Databases](topics/databases.md)
-  * [Testing](topics/testing.md)
-  * [Testing in Express](topics/testing-express.md)
+  * [BDD](topics/bdd.md)
+  * [BDD with Express](topics/express-bdd.md)
