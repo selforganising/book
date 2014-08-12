@@ -84,18 +84,18 @@ A test script might look like this:
                 .expect(200, done);
         });
 
-        it("should return some text referencing 'Camden'", function(done) {
+        it("should return some text referencing 'Camden Town'", function(done) {
             request.get('/')
-                .expect(/Camden/, done);
+                .expect(/Camden Town/, done);
         });
 
     });
 
-And these should pass as follows:
+Run `mocha` and these should pass as follows:
 
     When a user goes to the home page
       ✓ should return status code 200 OK (207ms)
-      ✓ should return some text referencing 'Camden' (243ms)
+      ✓ should return some text referencing 'Camden Town' (243ms)
 
     2 passing (459ms)
 
@@ -106,7 +106,3 @@ And these should pass as follows:
 ### Note
 
 Testing is a big topic and we have just scratched the surface. There are also different ways to do BDD (see [Wikipedia](http://en.wikipedia.org/wiki/Behavior-driven_development)). The approach used here is a good jumping off point, but is not close to being exhaustive.
-
-
-
-
