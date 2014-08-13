@@ -10,9 +10,43 @@ Remember that in pseudo-code, an acceptance test might look something like this:
         it('should actually exist')
         it('should display the message, "Hello, Camden Town"')
 
+### Install Mocha
+
+    npm install -g mocha
+
+### Create a simple express app
+
+    express bdd-demo
+
+Then, create a very simple app.js file:
+
+    var express = require('express'),
+        path = require('path');
+        app = express();
+
+    app.get('/', function(req, res) {
+        res.send('Hello, Camden Town');
+    });
+
+    module.exports = app;
+
 ### package.json
 
-Add mocha and supertest as dependencies in `package.json` and run `npm install`.
+Add supertest as dependencies in `package.json` and run `npm install`.
+
+    {
+      "name": "bdd-express-demo",
+      "version": "0.0.1",
+      "private": true,
+      "scripts": {
+        "start": "node ./bin/www"
+      },
+      "dependencies": {
+        "express": "~4.2.0",
+        "debug": "~0.7.4",
+        "supertest": "*"
+      }
+    }
 
 ### test/test.js
 
