@@ -1,4 +1,4 @@
-# Behaviour-driven development with an Express application
+# Behaviour-driven development with Express
 
 Read [Testing](topics/testing) first.
 
