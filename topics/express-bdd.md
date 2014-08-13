@@ -16,7 +16,7 @@ Remember that in pseudo-code, an acceptance test might look something like this:
 
 ### Create a simple express app
 
-    express bdd-demo
+    express bdd-express-demo
 
 Then, create a very simple app.js file:
 
@@ -74,4 +74,13 @@ Create a test file as follows:
         });
     });
 
-And run `mocha`.
+Run `mocha`.
+
+And we should get:
+
+    When a user goes to the home page
+      ✓ should return status code 200 OK
+      ✓ should return some text referencing 'Camden Town'
+
+    2 passing (34ms)
+
