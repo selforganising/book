@@ -37,5 +37,3 @@ Even better would be:
     $( '#news' ).append(links);
 
 Why would this be better? Because DOM insertion is expensive. Inserting all your results once, instead of each one separately, will be much quicker. How much quicker? If anyone is up for it, it would be a very interesting exericise to try it both ways on a single page and use the DevTools to get an estimate of the difference.
-
-WARNING: I have not checked the syntax above. There may be errors. Please let me know if you find any.

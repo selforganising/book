@@ -24,6 +24,8 @@
   * [Week 6 assignment](assignments/week6.md)
 * Journalism
   * [Social Media Campaign](journalism/social.md)
+* [Week 2 topics]
+  * [jQuery](topics/jquery.md)
 * [Topics](topics/README.md)
   * [Agile development](topics/agile.md)
   * Story-based project planning
@@ -47,5 +49,6 @@
   * [Using D3](topics/map1.md)
   * [D3 commands](topics/d3.md)
   * [Databases](topics/databases.md)
+
   * [BDD](topics/bdd.md)
   * [BDD with Express](topics/express-bdd.md)

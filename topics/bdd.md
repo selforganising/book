@@ -84,7 +84,7 @@ A test script might look like this:
                 .expect(200, done);
         });
 
-        it("should return some text referencing 'Camden Town'", function(done) {
+        it("should contain the text 'Camden Town'", function(done) {
             request.get('/')
                 .expect(/Camden Town/, done);
         });
@@ -99,7 +99,7 @@ Run `mocha` and these should pass as follows:
 
     2 passing (459ms)
 
-(It is possible the first test will fail with *"Error: expected 200 "OK", got 302 "Moved Temporarily"*. If that happens, just run the test again.)
+(It is possible the first test will fail with `Error: expected 200 "OK", got 302 "Moved Temporarily`. If that happens, just run the test again.)
 
 [These examples are also on GitHub](https://github.com/selforganising/testing-examples).
 
