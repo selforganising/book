@@ -13,7 +13,6 @@ What this means in practice is:
 * Daily scrums
 * Weekly sprint planning
 * Weekly sprint review and retrospective 
-* Planning poker
 * Timeboxing (Pomodoro)
 * Stop, go, continue
 
