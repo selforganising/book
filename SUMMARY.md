@@ -11,6 +11,6 @@
 * [Week 2](week2/README.md)
   * [jQuery](week2/jquery.md)
   * [Using .append() in jQuery](week2/jquery-append.md)
+  * [BDD](week2/bdd.md)
 * [Week 3](week3/README.md)
-  * [BDD](week3/bdd.md)
   * [BDD with Express](week3/express-bdd.md)
