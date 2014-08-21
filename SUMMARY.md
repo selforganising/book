@@ -10,6 +10,7 @@
 * [Week 1](week1/README.md)
   * [Agile](week1/agile.md)
 * [Week 2](week2/README.md)
+  * [JavaScript arrays](week2/arrays.md)
   * [jQuery](week2/jquery.md)
   * [Using .append() in jQuery](week2/jquery-append.md)
   * [BDD](week2/bdd.md)
