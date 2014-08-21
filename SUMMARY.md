@@ -8,6 +8,7 @@
   * [Groups](about/groups.md)
   * [Roles](about/roles.md)
 * [Week 1](week1/README.md)
+  * [Agile](week1/agile.md)
 * [Week 2](week2/README.md)
   * [jQuery](week2/jquery.md)
   * [Using .append() in jQuery](week2/jquery-append.md)
