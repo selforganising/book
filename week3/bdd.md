@@ -1,6 +1,6 @@
 # Behaviour-driven development
 
-We are going to introduce testing right from the start of this course and we are going to use an approach to testing that fits in well with the agile approach and with the story-based project management tool that we are using.
+We are going to introduce testing early in this course and we are going to use an approach to testing that fits in well with the agile approach and with the story-based project management tool that we are using.
 
 Before we write any other software, we are going to write code to test the *expected behaviour* of our software. This approach is known as ***behaviour-driven development***, or ***BDD***.
 
