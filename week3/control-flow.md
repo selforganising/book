@@ -26,4 +26,4 @@ Here is an example:
     > There: undefined
     > Here: some stuff
 
-The call to `fs.readFile` creates a new flow of control in the code: the callback will execute after the file have been opened. Meanwhile the original control flow continues and reaches a point where an undefined `output` is printed to the screen. Eventually, the file has been opened and the file contents are assigned to the `output` variable, which is then printed to the screen.
+The call to `fs.readFile` creates a new flow of control in the code: the callback will execute after the file have been opened. Meanwhile the original control flow continues and reaches a point where an undefined `output` is printed to the screen. Eventually, the file is opened and the file contents are assigned to the `output` variable, which is then printed to the screen.

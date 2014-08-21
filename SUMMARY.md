@@ -15,4 +15,5 @@
   * [Using .append() in jQuery](week2/jquery-append.md)
   * [BDD](week2/bdd.md)
 * [Week 3](week3/README.md)
+  * [Control flow](week3/control-flow.md)
   * [BDD with Express](week3/express-bdd.md)
