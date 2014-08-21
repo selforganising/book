@@ -1,5 +1,5 @@
 
-# Welcome to Founders & Coders III
+# Welcome to Collective Academy
 
 ## September 15, 2014
 

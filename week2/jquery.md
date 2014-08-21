@@ -14,7 +14,7 @@ It was originally pitched as a nice way to do form validation and was quickly ad
 
 ###Ajax
 
-By the early 2000s, JavaScript began to be used for populating an already-loaded web page with new content in what became known as Ajax (asynchronous JavaScript and XML) applications. Google launched gmail in 2004 and Google Maps the following year. The widely-used jQuery library was released in 2006. The Google V8 JavaScript engine, which greatly speeded up the execution of JavaScript, was released in 2008 with the first version of Google Chrome.
+By the early 2000s, JavaScript began to be used for populating an already-loaded web page with new content in what became known as Ajax (asynchronous JavaScript and XML) applications. Google launched Gmail in 2004 and Google Maps the following year. The widely-used jQuery library was released in 2006. The Google V8 JavaScript engine, which greatly speeded up the execution of JavaScript, was released in 2008 with the first version of Google Chrome.
 
 It is possible to write web server applications without using JavaScript, but no other language will actually run in a web browser.
 
@@ -46,4 +46,14 @@ The application.js file should look something like this:
         // add your code here
 
     });
+
+Try this, to make sure that everything is working as expected:
+
+    $( document ).ready(function() {
+
+        window.alert("Hello, Camden Town");
+
+    });
+
+You should now be ready to go. 
 
