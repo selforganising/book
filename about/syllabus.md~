@@ -1,4 +1,4 @@
-# Syllabus
+# Provisional syllabus
 
 ## Week 1 development environments, source control, agile development and building static websites
 
@@ -32,15 +32,15 @@ Prerequisites:
 
 * [Real-time Web with Node.js, Level 1](https://www.codeschool.com/courses/real-time-web-with-node-js)
 
-## Week 4: MVC, Databases, REST APIs
+## Week 4: Build tools and testing
 
-Express.js, MongoDB, Jade
+Jasmine, Gulp, Bower
 
 Prerequisites:
 
-## Week 5: Build tools and testing
+## Week 5: MVC, Databases, REST APIs
 
-Jasmine, Gulp, Bower
+Express.js, MongoDB, Jade
 
 Prerequisites:
 
@@ -60,11 +60,8 @@ Prerequisites:
 
 ## Week 8: Group projects
 
-Extras:
 PhoneGap
-cloudflare
-google analytics
-
+Socket.io
 
 ## Reading (and watching) list
 
