@@ -1,5 +1,5 @@
 
-This book is the main reference for the course *Founders & Coders* currently being taught in Camden town.
+This is a reference, of sorts, for the course *Founders & Coders* running at Collective Academy in Camden Town.
 
 ##History
 

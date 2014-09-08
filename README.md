@@ -1,5 +1,6 @@
+# Founders & Coders
 
-# Welcome to Collective Academy
+## At Collective Academy
 
-## September 15, 2014
+This is the text for the course being run at Collective in Camden Town in 2014.
 
