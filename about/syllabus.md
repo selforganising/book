@@ -16,7 +16,7 @@ Prerequisites:
 
 * [Codecademy's JavaScript](http://www.codecademy.com/tracks/javascript) Learn how to make your websites interactive and how to build browser based games. 10 hours.
 
-[**CSS Diner**](http://flukeout.github.io/#), a great way to learn CSS selectors. Hint: the answers to the first three levels are *"plate"*, *"bento"* and *"#fancy"*, respectively. Hopefully, you will be able to take it from there. 
+* [**CSS Diner**](http://flukeout.github.io/#), a great way to learn CSS selectors. Hint: the answers to the first three levels are *"plate"*, *"bento"* and *"#fancy"*, respectively. Hopefully, you will be able to take it from there. 
 
 ### Week 2 client-side programming, JavaScript, linting, DOM, AJAX, APIs
 

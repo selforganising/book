@@ -1,4 +1,6 @@
 * [About the course](about/README.md)
+  * [Collective](about/collective.md)
+  * [Black Sheep](about/blacksheep.md)
   * [Workload](about/workload.md)
   * [Syllabus](about/syllabus.md)
   * [Timetable](about/timetable.md)
