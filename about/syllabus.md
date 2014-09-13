@@ -2,7 +2,7 @@
 
 Don't take this syllabus too seriously. It is likely to change.
 
-### Week 1 development environments, source control, agile development and building static websites
+### Week 1: development environments, source control, agile development, testing and building static websites
 
 PivotalTracker, Git, GitHub, GitHub pages, Jekyll, HTML, CSS, Bootstrap, Sass. Setting up on OS X, Windows or Unix.
 
@@ -18,52 +18,26 @@ Prerequisites:
 
 * [**CSS Diner**](http://flukeout.github.io/#), a great way to learn CSS selectors. Hint: the answers to the first three levels are *"plate"*, *"bento"* and *"#fancy"*, respectively. Hopefully, you will be able to take it from there. 
 
-### Week 2 client-side programming, JavaScript, linting, DOM, AJAX, APIs
-
-jQuery, JSHint
+### Week 2: client-side programming, JavaScript, linting, DOM, AJAX, APIs
 
 Prerequisites:
 *  [Discover DevTools](http://discover-devtools.codeschool.com/) course at Code School.
 
-
-## Weeks 3: server-side programming and APIs
-
-Node.js
+## Weeks 3: server-side programming and APIs with Node.js
 
 Prerequisites:
 
 * [Real-time Web with Node.js, Level 1](https://www.codeschool.com/courses/real-time-web-with-node-js)
 
-### Week 4: Build tools and testing
-
-Jasmine, Gulp, Bower
-
-Prerequisites:
+### Week 4: Build tools and more Node.js
 
 ### Week 5: MVC, Databases, REST APIs
 
-Express.js, MongoDB, Jade
-
-Prerequisites:
-
 ### Week 6: Data visualisation
-
-D3.js
-
-Prerequisites:
 
 ### Week 7: Client-side MVC applications
 
-AngularJS
-
-Prerequisites: 
-
-* Code School's [Shaping up with Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
-
 ### Week 8: Group projects
-
-PhoneGap
-Socket.io
 
 ### Reading (and watching) list
 
