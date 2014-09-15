@@ -1,4 +1,4 @@
-# Course structure
+# The groups
 
 This course is group based. 
 

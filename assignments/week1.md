@@ -1,4 +1,6 @@
-# Week 1: Build a blog using GitHub Pages  
+# Week 1
+
+##Build a blog using GitHub Pages  
 
 The first task is to build a group blog. This will be a permanent record of your work over the next seven weeks. You will use it to share with each other and to showcase Founders & Coders to the world.  
 
@@ -24,10 +26,3 @@ This is an open-ended project on which you will be working for exactly one week.
 * CSS Frameworks
 * Social Media
  
-##Additional tasks
-
-Get familiar with agile project management using [PivotalTracker](https://www.pivotaltracker.com/).
-
-##Nodeschool
-
-Try out [git-it](http://nodeschool.io/#git-it).

@@ -6,17 +6,16 @@ What this means in practice is:
 
 * Story-based project planning
 * Behaviour-driven development
-* Pair programming
+* Paired programming
 * A product owner
-* A scrum master
+* A daily scrum
 * One-week sprints
 * Daily scrums
 * Weekly sprint planning
 * Weekly sprint review and retrospective 
-* Timeboxing (Pomodoro)
+* Timeboxing (see Pomodoro)
 * Stop, go, continue
 
 ## Reading
 
 [The agile manifesto](http://agilemanifesto.org/)
-

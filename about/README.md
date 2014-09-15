@@ -1,6 +1,3 @@
-
-This is a reference, of sorts, for the course *Founders & Coders* running at Collective Academy in Camden Town.
-
 ##History
 
 * *Coding the web*, January-February 2014

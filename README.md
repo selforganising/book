@@ -2,5 +2,5 @@
 
 ## At Collective Academy
 
-This is the text for the course being run at Collective in Camden Town in 2014.
+This is a reference, of sorts, for the course *Founders & Coders* running at Collective Academy in Camden Town.
 

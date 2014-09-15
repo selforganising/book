@@ -4,34 +4,21 @@ Don't take this syllabus too seriously. It is likely to change.
 
 ### Week 1: development environments, source control, agile development, testing and building static websites
 
-PivotalTracker, Git, GitHub, GitHub pages, Jekyll, HTML, CSS, Bootstrap, Sass. Setting up on OS X, Windows or Unix.
-
-Prerequisites:
-
-* [Stanford's Computer Science 101](https://www.coursera.org/course/cs101) CS101 is a gentle introduction to programming concepts that uses (a slightly doctored version of) JavaScript, so it is perfect for our purposes. Expect to spend about 10-15 hours on it, including watching the lectures and completing the exercises.
-
-* [Codecademy's HTML & CSS](http://www.codecademy.com/tracks/web) Learn the building blocks of web development with HTML and CSS, and create your own website by the end of the course. 7 hours.
-
-* [Codecademy's jQuery](http://www.codecademy.com/tracks/jquery) jQuery uses JavaScript to easily build interactive websites. Learn animation, events and DOM manipulation. 3 hours.
-
-* [Codecademy's JavaScript](http://www.codecademy.com/tracks/javascript) Learn how to make your websites interactive and how to build browser based games. 10 hours.
-
-* [**CSS Diner**](http://flukeout.github.io/#), a great way to learn CSS selectors. Hint: the answers to the first three levels are *"plate"*, *"bento"* and *"#fancy"*, respectively. Hopefully, you will be able to take it from there. 
+PivotalTracker, Git, GitHub, GitHub pages, Jekyll, HTML, CSS, Bootstrap, Sass, Mocha, Supertest. Setting up on OS X, Windows or Unix.
 
 ### Week 2: client-side programming, JavaScript, linting, DOM, AJAX, APIs
 
 Prerequisites:
 *  [Discover DevTools](http://discover-devtools.codeschool.com/) course at Code School.
 
-## Weeks 3: server-side programming and APIs with Node.js
+### Weeks 3: server-side programming and APIs with Node.js
 
 Prerequisites:
-
 * [Real-time Web with Node.js, Level 1](https://www.codeschool.com/courses/real-time-web-with-node-js)
 
 ### Week 4: Build tools and more Node.js
 
-### Week 5: MVC, Databases, REST APIs
+### Week 5: MVC, Databases, REST APIs and yet more Node.js
 
 ### Week 6: Data visualisation
 

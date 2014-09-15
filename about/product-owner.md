@@ -1,16 +1,12 @@
 # Product owner
 
+If the *Project manager* is focussed on process, then the *product owner* is focussed on output. It is their job to make sure that the team has translated the project task into clear goals and that those goals are actually being met.
+
 ## Responsibilities
 
-* Act as the *Product Owner* (see [Agile software development](http://en.wikipedia.org/wiki/Agile_software_development));
-* Present your group's work at the daily code review;
-* Ensure that you have working code for the daily code review;
-* Ensure that the group comes up with a weekly product idea.
-
-###PivotalTracker
-* In *PivotalTracker*, *Accept* or *Reject* delivered stories;
-* Ensure that you understand each *accepted* story.
-
-###First rule of presenting
-
-Do not use the word *"I"* in a presentation where *"we"* would work just as well. You are presenting the group's work, not your own.
+* Put user stories into Trello
+* Sign off user stories in Trello
+* Ensure that the group blog looks good
+* Run your group's social media campaign
+* Collect stats on page impressions and social media reach
+* Do a comprehensive handover to the new product owner on Friday afternoon
