@@ -18,6 +18,7 @@
   * [Assignment](assignments/week1.md)
   * [Agile](week1/agile.md)
   * [BDD](week1/bdd.md)
+  * [The command line](week1/command-line.md)
 * [Week 2](week2/README.md)
   * [JavaScript arrays](week2/arrays.md)
   * [jQuery](week2/jquery.md)
