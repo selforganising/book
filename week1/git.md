@@ -6,7 +6,7 @@ The importance of learning version control cannot be exaggerated. These days, th
 
 First, create a [GitHub](https://github.com/) account. 
 
-Also, if you are not using a development environment like Nitrous.IO, you will need to install git on your own machine. If you are not sure how to  do this, you may want to set up a [Nitrous](https://www.nitrous.io/) account now. If you do use Nitrous, you will need to connect your newly-created box to your GitHub account.
+Also, if you are not using a development environment like Nitrous.IO, you will need to install git on your own machine. If you are not sure how to  do this, you may want to set up a [Nitrous](https://www.nitrous.io/) account now. If you do use Nitrous, you will need to[ connect your newly-created box to your GitHub account](http://help.nitrous.io/github-add-key/).
 
 We are going to start by creating a project. Once we have done this, please follow the videos and online tutorial below, in your own time.
 
