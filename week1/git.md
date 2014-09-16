@@ -12,7 +12,7 @@ We are going to start by creating a project. Once we have done this, please foll
 
 * [Go to the __new__ page on GitHub](https://github.com/new).
 * Select the `Initialize this repository with a README` option.
-* Add `.gitignore: Python`, if you like
+* Add `.gitignore: Node`, if you like
 * Click on `Create repository`
 
 When redirected to the new repo page, go to `HTTPS clone URL` on the right of the page. Where it says `You can clone with HTTPS, SSH, or Subversion`, select `SSH`. This allows you `push` changes to your repo without having to enter your username and password every time you do so. Then click on the `Copy to Clipboard` icon.
