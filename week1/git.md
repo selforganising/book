@@ -98,6 +98,20 @@ The first time you do this on your dev box, you will be asked to enter your GitH
 
 Keep `git add`ing files, `git commit`ing them and `git push`ing the changes up to GitHub.
  
+####Questions
+
+*How do I add some existing files to a new repository?*    
+Just move them in to the repository and `git add` them.
+
+*How do I add an existing git repo to a new GitHub project?*    
+Assuming you have already created a project on GitHub, then:
+
+    git remote add origin <remote repository URL>
+    git remote -v
+    git push origin master
+
+See [Adding an existing project to GitHub using the command line](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line).
+
 ####Introductory videos
 
 Having set up a GitHub project, now is a good time to learn more about both Git and GitHub.
