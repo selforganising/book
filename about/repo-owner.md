@@ -1,11 +1,13 @@
 # Repo owner
 
-This is a technically challenging role, particularly in the first week. Pair up with other testers in order to understand what you have to do.
+Repo owners are expected to collaborate closely with each other.
 
 ##Responsibilities
 
+* Run the daily scrum
 * Maintain the group's code repository on GitHub
 * Enforce a Git development strategy
+* Present a tutorial on some aspect of their work
 * Handover management of the repo on Friday
 
 ### Recommendations

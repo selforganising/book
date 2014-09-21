@@ -1,6 +1,17 @@
 # Tester
 
-The tester's role is technically challenging, particularly in the first week. 
+Testers are expected to collaborate closely with each other.
 
-The tester's main responsiblitity is to turn *user stories* in *Trello* into acceptance tests using *Mocha* and *Supertest*. Do not attempt to do this alone, but pair up with one of the other tester's. See the notes on *BDD* in Week 1.
+##Responsibilities
+
+* Ensure that *user stories* in *Trello* are written in a form that can be used as acceptance tests
+* Write tests (using *Mocha* and *Supertest*)
+* Make sure that your team are all constantly running tests against their code
+* Make sure that your team are all constantly using JSHint
+* Move user stories in Trello into a stack called *"DONE: tests passing"* only when all test pass and all JavaScript code has been run through JSHint without errors or warnings
+* Present a tutorial on some aspect of their work
+* Handover to the new tester on Friday
+
+See the notes on *BDD* in Week 1.
+
 
