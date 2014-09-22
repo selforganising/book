@@ -22,6 +22,8 @@ We can use `append` like this:
     $.each(results, function(i, result) {
       $( '#news' ).append('<a href="' + result.url + '">' + result.headline + '</a>');        
     });
+
+`each` is a jQuery function. [Look it up](http://api.jquery.com/jquery.each/).
  
 We can also do this:
 
