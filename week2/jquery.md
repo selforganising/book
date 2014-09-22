@@ -1,4 +1,4 @@
-# Quick recap of JavaScript, Ajax and jQuery
+# JavaScript, Ajax and jQuery
 
 ###Prerequisites
 
