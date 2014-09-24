@@ -34,3 +34,4 @@
   * [Control flow]()
   * [BDD with Expres]()
 * [Quick talks](quicktalks/README.md)
+  * [Comments](quicktalks/comments.md)
