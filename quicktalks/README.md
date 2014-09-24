@@ -1,6 +1,6 @@
-# JavaScript quick talks
+# Quick talks
 
-5-minute, one-slide presentations on some aspect of the JavaScript language. 
+5-minute, one-slide presentations on some aspect of the JavaScript language or on any other topic not covered elsewhere. 
 
 ###Guidelines
 
