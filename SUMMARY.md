@@ -35,3 +35,5 @@
   * [BDD with Expres]()
 * [Quick talks](quicktalks/README.md)
   * [Comments](quicktalks/comments.md)
+  * [Semicolons](quicktalks/semicolons.md)
+  * [Arrays](quicktalks/arrays.md)

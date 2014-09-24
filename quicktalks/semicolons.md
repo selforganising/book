@@ -64,6 +64,4 @@ Here are examples when to NOT use a semicolon:
 There is no alternative to semicolons and you could just stop using them and do linebreaks instead. That would be an antipatterns which works but its not recommended and is bad practice. 
 <strong>DO USE SEMICOLONS, GUYS!</strong> 
 
-
-
-
+*Subhan, FAC3*
