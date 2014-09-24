@@ -33,3 +33,4 @@
 * [Week 3](week3/README.md)
   * [Control flow]()
   * [BDD with Expres]()
+* [Quick talks](quicktalks/README.md)
