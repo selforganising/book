@@ -95,3 +95,5 @@ GOOD
 
 * Comments should be used to describe what a program is doing, but not restate something that is obvious. 
 * By using appropriate and informative variable names there isn't a need for a comment in that instance.
+
+*Natalia, FAC3*
