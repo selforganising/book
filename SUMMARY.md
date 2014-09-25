@@ -37,3 +37,4 @@
   * [Comments](quicktalks/comments.md)
   * [Semicolons](quicktalks/semicolons.md)
   * [Arrays](quicktalks/arrays.md)
+  * [Objects](quicktalks/objects.md)
