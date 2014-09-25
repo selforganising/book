@@ -40,3 +40,4 @@
   * [Arrays](quicktalks/arrays.md)
   * [Objects](quicktalks/objects.md)
   * [Functions 101](quicktalks/functions-101.md)
+  * [Variables](quicktalks/variables.md)
