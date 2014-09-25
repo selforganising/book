@@ -41,20 +41,7 @@ Inserting a semicolon finishes the statement you are working on in Javascript. I
 
 Here are examples when to NOT use a semicolon:
 
-	1. 
-	if( x < 5 )<span style="color:red">;</span> {
-		x++;
-	}
-
-	2.
-	if( x < 5<span style="color:red">;</span> ) {
-		x++;
-	}
-
-	3.
-	if( x < 5 ) {<span style="color:red">;</span>
-		x++;
-	}
+![When not to use a semicolon](/../images/semicolonpic.png "When not to use a semicolon")
 
 
 
