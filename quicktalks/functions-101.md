@@ -4,7 +4,7 @@ You're not going to get anywhere in computer programming without understanding f
 
 ### What's in a name?
 
-  // YEAH! I CAN GUESS WHAT THIS DOES
+    // YEAH! I CAN GUESS WHAT THIS DOES
     function multiply (number1, number2) {
       alert(number1 * number2);
     }
@@ -57,4 +57,4 @@ Don't declare functions inside an 'if' statement. Never. Same for While blocks. 
 
 You cannot use the variable name "arguments" as a parameter. Don't do it, you'll create a black hole and we'll all be goners. Plus your code won't work. It's a restricted word. Use args or literally almost anything else.
 
-
+*Marc, FAC3*
