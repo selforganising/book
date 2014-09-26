@@ -41,4 +41,5 @@
   * [Objects](quicktalks/objects.md)
   * [Functions 101](quicktalks/functions-101.md)
   * [Variables](quicktalks/variables.md)
+  * [Blocks](quicktalks/blocks.md)
 * [One good, one bad](onegoodonebad/README.md)

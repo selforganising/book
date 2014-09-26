@@ -17,23 +17,28 @@
 * Use braces with all multi-line blocks.
 
 BAD
-        if (test)
-          return false;
+
+       if (test)
+            return false;
   
 GOOD
+
         if (test) return false;
 
 GOOD
+
         if (test) {
-        return false;
+            return false;
         }
 
 BAD
+
         function() { return false; }
 
 GOOD
+
         function() {
-        return false;
+            return false;
         }
 
 
