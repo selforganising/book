@@ -3,7 +3,7 @@
 ###When do we use commas and what is their purpose?
 
   - Key use: as separator 
-  - As operator 
+  - Minor (and bad) use: as operator 
 
 The simplest and most common use of commas is simply as a separator in an expression. 
 
