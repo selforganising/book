@@ -45,8 +45,7 @@ In the var declaration. For example in:
         upon,
         aTime;
 
-// bad
-
+    // bad
     var hero = {
         firstName: 'Bob'
       , lastName: 'Parr'
@@ -54,8 +53,7 @@ In the var declaration. For example in:
       , superPower: 'strength'
     };
 
-// good
-
+    // good
     var hero = {
         firstName: 'Bob',
         lastName: 'Parr',
@@ -132,7 +130,7 @@ An alternative, simpler version is:
         j--;
     }
 
-##BASICALLY, never use the comma as an operator. You might see it being done, but it is not good practice.
+###BASICALLY, never use the comma as an operator. You might see it being done, but it is not good practice.
 
 --------
 *Natalie, FAC3*
