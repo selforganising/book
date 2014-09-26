@@ -89,7 +89,7 @@ The comma operator is an operator that can be used inside an expression. It is u
 a = 1, b = 2, c = 3
 means "evaluate a = 1, then b = 2, then c = 3, then evaluate to the value of the expression c = 3.
 
-*When should you use the comma as an operator?
+###When should you use the comma as an operator?
 
 To be safe, never.
 
@@ -103,8 +103,8 @@ for(var i=0,j=10;i<=j;i++,j--){
  console.log(i*j); 
 }
 
-The first expression just uses the var statement to create two local variables, i and j, and sets them to zero and ten respectively. The second expression is a simple test for i being less than or equal to j, and doesn't use the comma operator. 
-The final expression is the only use of the comma operator and it adds one to i and subtracts one from j each time through the loop. So the values of i and j we create are:
+The first expression just uses the var statement to create two local variables, i and j, and sets them to zero and ten respectively. <br>The second expression is a simple test for i being less than or equal to j, and doesn't use the comma operator. <br>
+The final expression is the only use of the comma operator and it adds one to i and subtracts one from j each time through the loop. <br>So the values of i and j we create are:
 0 10
 1 9
 2 8
