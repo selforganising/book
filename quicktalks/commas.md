@@ -2,7 +2,7 @@
 
 ###When do we use commas and what is their purpose?
 
-* - Key use: as separator 
+  - Key use: as separator 
   - As operator 
 
 The simplest and most common use of commas is simply as a separator in an expression. 
@@ -21,8 +21,8 @@ var a=1,
 
 ###Best practice rules:
 
-1) Always use semicolons to terminate statements - a comma will never do the same job
-2) Don't use leading commas
+1) Always use semicolons to terminate statements - a comma will never do the same job<br>
+2) Don't use leading commas<br>
 3) Don't use a comma after the last item of an array
 
 ###Leading Commas
@@ -119,6 +119,6 @@ for(var i=0,j=10;i<=j;i++){
  j--;
 }
 
-#BASICALLY, never use the comma as an operator. You might see it being done, but it is not good practice.
+##BASICALLY, never use the comma as an operator. You might see it being done, but it is not good practice.
 --------
 *Natalie, FAC3*
