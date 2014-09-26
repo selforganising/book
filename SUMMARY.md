@@ -42,4 +42,5 @@
   * [Functions 101](quicktalks/functions-101.md)
   * [Variables](quicktalks/variables.md)
   * [Blocks](quicktalks/blocks.md)
+  * [Commas](quicktalks/commas.md)
 * [One good, one bad](onegoodonebad/README.md)
