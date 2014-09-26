@@ -2,7 +2,7 @@
 
 ## One good, one bad
 
-Post the title of your proposed talk to [Slack](https://foundersandcoders.slack.com/messages/one-good-one-bad/) and prepare a two-minute *[One good, one bad](onegoodonegood/README.html) presentation.
+Post the title of your proposed talk to [Slack](https://foundersandcoders.slack.com/messages/one-good-one-bad/) and prepare a two-minute *[One good, one bad](onegoodonegood/README.html)* presentation.
 
 ##Node.js
 
