@@ -41,3 +41,4 @@ GOOD
      
 The block structure makes it easier to see how the code could be refactored for clarity, and also makes it easier to do, because the structure of the inner conditional can easily be moved out of the outer conditional altogether and the effects of doing so are easily predicted.
    
+*Joe, FAC3*
