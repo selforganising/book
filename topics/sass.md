@@ -18,4 +18,5 @@ If you're going to be using the same colour, or font, or border shape etc in a l
 ##Mixins
 The golden rule with mixins is: if you know that you'll be using a pattern of styles, or you find yourself coding in a similar pattern 2 of 3 times, you could reduce your workload with a mixin. 
 
+*Harry, FAC3*
 

@@ -39,3 +39,5 @@ _In this context it can be helpful for understanding the basic flow of the eleme
 *Every element in the document is effected by the reset and so must have their style properties addressed individually.
 *Since this is a universal declaration which effects every element in a document, and css alterations that have an affect on layount, paint, and composite increase load time, there is an argument that such a universal reset is an unnecessary strain on load times. [See the blog behind Css Triggers](http://csstriggers.com/)
 A reset like this will also have a particularly noticeable effect on `<input>` elements. [See here](http://jsbin.com/vokol/latest)
+
+*Harry, FAC3*

@@ -44,5 +44,7 @@
   * [Variables](quicktalks/variables.md)
   * [Blocks](quicktalks/blocks.md)
   * [Commas](quicktalks/commas.md)
+  * [Naming conventions](namingconventions.md)
   * [Method chaining](quicktalks/method-chaining.md)
 * [One good, one bad](onegoodonebad/README.md)
+  * [CSS resets](onegoodonebad/cssresets.md)
