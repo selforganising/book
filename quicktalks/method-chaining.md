@@ -79,10 +79,11 @@ But that looks like a lot of effort doesn't it? Can't we use method chaining?
 
 Well actually we've got a problem if we try something like this:
 
-var bob = new Kitten();
-bob.setName('Bob').setColor('black');
+    var bob = new Kitten();
+    bob.setName('Bob').setColor('black');
 
 We're going to get an error:
+
     // ERROR:
     // > Uncaught TypeError: Cannot call method 'setColor' of undefined
 
