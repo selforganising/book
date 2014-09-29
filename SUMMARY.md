@@ -20,6 +20,7 @@
   * [Week 1 homework](assignments/week1homework.md)
   * [Week 2](assignments/week2.md)
   * [Week 2 homework](assignments/week2homework.md)
+  * [Week 3](assignments/week3.md)
 * [Week 1](week1/README.md)
   * [Agile](week1/agile.md)
   * [BDD](week1/bdd.md)

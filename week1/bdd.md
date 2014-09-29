@@ -70,6 +70,10 @@ And your tests should pass, like this:
 
 As well as *mocha*, we are going to use [*Supertest*](https://github.com/visionmedia/supertest), a JavaScript library for testing HTTP servers. This will allow us to test actual web pages, making GET and POST requests and checking the response.
 
+Install Supertest as follows:
+
+    npm install -g supertest
+
 Using Supertest, we can easily map user stories to acceptance tests for web applications.
 
 A test script might look like this:
