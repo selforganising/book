@@ -19,20 +19,21 @@ A way of simplifying your code when calling multiple methods on an object.
 Save time/space!
 For example, this is something we might do in Jquery when setting lots of properties for an object.
 
-var $div = $('#my-div');         
-$div.css('background', 'blue');  
-$div.height(100);                
-$div.fadeIn(200);
+    var $div = $('#my-div');         
+    $div.css('background', 'blue');  
+    $div.height(100);                
+    $div.fadeIn(200);
 
 With method chaining can become:
-$('#my-div').css('background', 'blue').height(100).fadeIn(200);
+
+    $('#my-div').css('background', 'blue').height(100).fadeIn(200);
 
 Or (as Air BnB prefer):
 
-$('#my-div')
-  .css('background', 'blue')
-  .height(100)
-  .fadeIn(200);
+    $('#my-div')
+      .css('background', 'blue')
+      .height(100)
+      .fadeIn(200);
 
 What a transformation!
 
@@ -49,28 +50,28 @@ If your method doesn't return the object, you can't use them.
 
 Imagine you've made a kitten object and you've created multiple methods like this:
 
-// define the class
-var Kitten = function() {
-  this.name = 'Garfield';
-  this.color = 'brown';
-  this.gender = 'male';
-};
-Kitten.prototype.setName = function(name) {
-  this.name = name;
-};
-Kitten.prototype.setColor = function(color) {
-  this.color = color;
-};
-Kitten.prototype.setGender = function(gender) {
-  this.gender = gender;
-};
+    // define the class
+    var Kitten = function() {
+      this.name = 'Garfield';
+      this.color = 'brown';
+      this.gender = 'male';
+    };
+    Kitten.prototype.setName = function(name) {
+      this.name = name;
+    };
+    Kitten.prototype.setColor = function(color) {
+      this.color = color;
+    };
+    Kitten.prototype.setGender = function(gender) {
+      this.gender = gender;
+    };
 
 That's going to let you do something pretty cool - create new kittens!
 
-var bob = new Kitten();
-bob.setName('Bob');
-bob.setColor('black');
-bob.setGender('male');
+    var bob = new Kitten();
+    bob.setName('Bob');
+    bob.setColor('black');
+    bob.setGender('male');
 
 ###There must be a better way
 
@@ -82,14 +83,15 @@ var bob = new Kitten();
 bob.setName('Bob').setColor('black');
 
 We're going to get an error:
-// ERROR:
-// > Uncaught TypeError: Cannot call method 'setColor' of undefined
+    // ERROR:
+    // > Uncaught TypeError: Cannot call method 'setColor' of undefined
 
 ###Why are we getting an error?
 Well if you stretch it out, it's actually going to look like this:
-var bob = new Kitten();
-var tmp = bob.setName('Bob');
-tmp.setColor('black');
+
+    var bob = new Kitten();
+    var tmp = bob.setName('Bob');
+    tmp.setColor('black');
 
 bob.setName isn't something you can apply a method to. It's not an object itself.
 
@@ -97,30 +99,30 @@ We can get around this problem when we create our methods. Let's go back up to o
 
 ###Returning the object
 
-// define the class
-var Kitten = function() {
-  this.name = 'Garfield';
-  this.color = 'brown';
-  this.gender = 'male';
-};
-Kitten.prototype.setName = function(name) {
-  this.name = name;
-  return this;
-};
-Kitten.prototype.setColor = function(color) {
-  this.color = color;
-  return this;
-};
-Kitten.prototype.setGender = function(gender) {
-  this.gender = gender;
-  return this;
-};
+    // define the class
+    var Kitten = function() {
+      this.name = 'Garfield';
+      this.color = 'brown';
+      this.gender = 'male';
+    };
+    Kitten.prototype.setName = function(name) {
+      this.name = name;
+      return this;
+    };
+    Kitten.prototype.setColor = function(color) {
+      this.color = color;
+      return this;
+    };
+    Kitten.prototype.setGender = function(gender) {
+      this.gender = gender;
+      return this;
+    };
 
 Now this makes sense:
 
-var bob = new Kitten();
-var tmp = bob.setName('Bob');
-tmp.setColor('black');
+    var bob = new Kitten();
+    var tmp = bob.setName('Bob');
+    tmp.setColor('black');
 
 Great! What a time saver!
 
@@ -132,12 +134,12 @@ http://schier.co/post/method-chaining-in-javascript
 
 Use indentation when making "long" method chains. (Maybe shorter ones are at your discretion?)
 
-// bad
-$('#items').find('.selected').highlight().end().find('.open').updateCount();
-// good
-$('#items')
-  .find('.selected')
-    .highlight()
-    .end()
-  .find('.open')
-    .updateCount();
+    // bad
+    $('#items').find('.selected').highlight().end().find('.open').updateCount();
+    // good
+    $('#items')
+      .find('.selected')
+        .highlight()
+        .end()
+      .find('.open')
+        .updateCount();
