@@ -56,6 +56,12 @@ var obj = JSON.parse(text);
 ###References:
 
 Dan's notes from Week 2: http://book.selforganising.org/week2/apis.html
+
 w3 schools on parse: http://www.w3schools.com/js/js_json.asp
+
 Freshly Brewed Code on stringify: http://freshbrewedcode.com/jimcowart/2013/01/29/what-you-might-not-know-about-json-stringify/
+
 Dan's mind: ask Dan.
+
+*Ben, FAC3*
+

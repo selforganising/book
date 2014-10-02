@@ -46,6 +46,7 @@
   * [Commas](quicktalks/commas.md)
   * [Naming conventions](namingconventions.md)
   * [Method chaining](quicktalks/method-chaining.md)
+  * [JSON](quicktalks/json.md)
 * [One good, one bad](onegoodonebad/README.md)
   * [CSS resets](onegoodonebad/cssresets.md)
   * [Scope](onegoodonebad/scope101.md)
