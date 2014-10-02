@@ -50,3 +50,4 @@
   * [CSS resets](onegoodonebad/cssresets.md)
   * [Scope](onegoodonebad/scope101.md)
   * [Methods](onegoodonebad/methods.md)
+  * [Equality operators](onegoodonebad/equality-operators.md)
