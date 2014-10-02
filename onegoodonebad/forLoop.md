@@ -8,7 +8,7 @@ The for loop is the most compact form of looping and includes the following thre
 
 * The iteration statement where you can increase or decrease your counter.
 
-* You can put all the three parts in a single line separated by a semicolon.
+You can put all the three parts in a single line separated by a semicolon.
 
 
 ###Syntax
@@ -18,9 +18,7 @@ The for loop is the most compact form of looping and includes the following thre
 	};
 
 
-###Example
-
-#### Bad
+### Bad
 
 	for (var i = 0; i < arr.length; i++) {
 
@@ -28,7 +26,7 @@ The for loop is the most compact form of looping and includes the following thre
 This is the most used and most readable version. The biggest disadvantage is this for loop looks up the .length property of the array each time through the loop.
 
 
-#### Good
+### Good
 
 	var len = arr.length; 
 	
