@@ -48,3 +48,5 @@
   * [Method chaining](quicktalks/method-chaining.md)
 * [One good, one bad](onegoodonebad/README.md)
   * [CSS resets](onegoodonebad/cssresets.md)
+  * [Scope](onegoodonebad/scope101.md)
+  * [Methods](onegoodonebad/methods.md)
