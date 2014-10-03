@@ -14,6 +14,7 @@
 3) Harder to test <br>
 4) Do not describe the role of the function <br> 
 5) Can make code appear to lack structure and make it more difficult to read <br>
+6) Named functions appear on your stack trace (a report of the active stack frames at a certain point in time during the execution of a program).
 
 
 ##Simple example of named vs. annonymous functions
@@ -77,28 +78,19 @@ _//It's important to note that these still won't work:_ <br>
 	console.log(foo);
 	console.log(bar);
 
-####Also note: 
+####Finally: 
 
-// An anonymous function assigned to a variable cannot be called before the variable is initialized
-	fnAnonymous(); // undefined
+// An anonymous function assigned to a variable cannot be called before the variable is initialized <br>
 
-	   var fnAnonymous = function(){
-
-    	     alert("hi");
-
+	var y = function () {
+    	   console.log('y');
 	};
+// But a named function can be accessed anywhere as long as it is within the same scope that the function is created <br>
 
-	fnAnonymous(); //hi
+	x(); // Works even though it's above the declaration
+	function x() {
+    	   console.log('x');
+	}
 
-// But a named function can be accessed anywhere as long as it is within the same scope that the function is created
-
-	fnNamed(); // hi
-
-	function fnNamed(){
-	   alert("hi");
-
-	};
-
-	fnNamed(); //hi
-
+####I.e. an anonymous function is defined at run-time, whereas a named function is processed when execution enters the context in which it appears, before any step-by-step code is executed. 
 
