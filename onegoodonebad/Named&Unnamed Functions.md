@@ -71,6 +71,7 @@ _//To allow access to a variable or function, we need to expose it to the global
 	console.log(baz()); //...and now this works.
 
 _//It's important to note that these still won't work:_ <br> 
+
 	console.log(foo);
 	console.log(bar);
 
