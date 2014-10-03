@@ -103,3 +103,6 @@ Function declarations and variable declarations are always moved (hoisted) invis
 	                 | is actually |      };
 	function x() {   | interpreted |-->       
 	}                |    like     |      x();
+
+
+*Nat, FAC3*

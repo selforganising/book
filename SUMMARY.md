@@ -54,3 +54,5 @@
   * [Methods](onegoodonebad/methods.md)
   * [Equality operators](onegoodonebad/equality-operators.md)
   * [For loops](onegoodonebad/forloop.md)
+  * [Named vs Anonymous functions](onegoodonebad/NamedvsAnnonymousFunctions.md)
+  * [New arrays](onegoodonebad/newarraynotation.md)
