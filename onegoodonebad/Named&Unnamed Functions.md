@@ -21,58 +21,58 @@
 _//Named_ <br>
 
 	var foo = 'Hello';
-		var bar = 'World!';
+	    var bar = 'World!';
 
 	function baz(){
-		 return foo  + ' ' + bar;
+	    return foo  + ' ' + bar;
 	}
 
 	console.log(baz());
 
 _//Anonymous_ <br>
 
-(function(){
-  console.log('Hello World!');
-})();
+	(function(){
+   	    console.log('Hello World!');
+	})();
 
 The final two parentheses cause everything contained in the preceding parentheses to be executed immediately. 
 As JavaScript has function level scoping, all variables and functions defined within the anonymous function aren’t available to the code outside of it.
 
-//In this example,, foo, bar and baz are not accesible outside of the anonymous function, so they will not console.log.
+_//In this example,, foo, bar and baz are not accesible outside of the anonymous function, so they will not console.log._ <br>
 
-(function(){
-  var foo = 'Hello';
-  var bar = 'World!'
+	(function(){
+  	   var foo = 'Hello';
+   	   var bar = 'World!'
   
-  function baz(){
-      return foo + ' ' + bar;
-  }
-})();
+  	function baz(){
+      	   return foo + ' ' + bar;
+  	}
+	})();
 
 _//These all throw exceptions:_ <br>
 
-console.log(foo);
-console.log(bar);
-console.log(baz());
+	console.log(foo);
+ 	console.log(bar);
+	console.log(baz());
 
-//To allow access to a variable or function, we need to expose it to the global ‘window’ object.
+_//To allow access to a variable or function, we need to expose it to the global ‘window’ object._ <br>
 
-(function(){
-  var foo = 'Hello';
-  var bar = 'World!'
+	(function(){
+  	   var foo = 'Hello';
+  	   var bar = 'World!'
   
-  function baz(){
-      return foo + ' ' + bar;
-  }
+   	function baz(){
+      	   return foo + ' ' + bar;
+  	}
 
-  window.baz = baz; //Assign 'baz' to the global variable 'baz'...
-})();
+	   window.baz = baz; //Assign 'baz' to the global variable 'baz'...
+	})();
 
-console.log(baz()); //...and now this works.
+	console.log(baz()); //...and now this works.
 
-//It's important to note that these still won't work: 
-console.log(foo);
-console.log(bar);
+_//It's important to note that these still won't work:_ <br> 
+	console.log(foo);
+	console.log(bar);
 
 
 If you create an anonymous function and assign it to a variable immediately when the function is 
@@ -83,25 +83,25 @@ and you can assign a different value to the variable at any time to replace the 
 
 
 // anonymous function assigned to a variable cannot be called before the variable is initialized
-fnAnonymous(); // undefined
+	fnAnonymous(); // undefined
 
-var fnAnonymous = function(){
+	   var fnAnonymous = function(){
 
-    alert("hi");
+    	     alert("hi");
 
-};
+	};
 
-fnAnonymous(); //hi
+	fnAnonymous(); //hi
 
 // a named function can be accessed anywhere as long as it is within the same scope that the function is created
 
-fnNamed(); // hi
+	fnNamed(); // hi
 
-function fnNamed(){
-	alert("hi");
+	function fnNamed(){
+	   alert("hi");
 
-};
+	};
 
-fnNamed(); //hi
+	fnNamed(); //hi
 
 
