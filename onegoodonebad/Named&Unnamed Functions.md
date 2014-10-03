@@ -3,9 +3,9 @@
 
 ##Why should you use anonymous functions?
 
-1) code brevity <br>
-2) scope management - nonymous functions can be used to create temporary/private scope <br>
-3) Anonymous function are often handy in closures and recursions. (A whole other talk topic.) <br>
+1) Code brevity <br>
+2) Scope management - nonymous functions can be used to create temporary/private scope <br>
+3) Anonymous functions are often handy within the context of closures and recursions. (A whole other talk topic.) <br>
 
 ##Why shouldn't you use anonymous functions?
 
