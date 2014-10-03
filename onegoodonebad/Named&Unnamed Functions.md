@@ -1,13 +1,13 @@
 #Named & Anonymous Functions
 
 
-##Why should you use anonymous functions?
+##What's good about anonymous functions?
 
 1) Code brevity <br>
 2) Scope management - anonymous functions can be used to create temporary/private scope <br>
 3) Anonymous functions are often handy within the context of closures and recursions. (A whole other talk topic.) <br>
 
-##Why shouldn't you use anonymous functions?
+##What's not so good about anonymous functions?
 
 1) Can be more difficult to debug <br>
 2) They cannot be reused <br>
