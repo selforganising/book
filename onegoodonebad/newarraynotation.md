@@ -1,7 +1,8 @@
 # Creating a new array
 
 ##Good – Array Literal Notation#
-var a = [‘1A’,’2B’];
+
+    var a = [‘1A’,’2B’];
 
 ##Bad – Array Constructor Notation#
 
@@ -35,7 +36,7 @@ A third option for creating arrays, is to use a javascript method such as string
 
 so 
 
-    var beta = [“I”, “learn”, “JavaScript]
+    var beta = [“I”, “learn”, “JavaScript"]
 
 
 Sources: 
