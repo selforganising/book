@@ -4,7 +4,7 @@
 ##Why should you use anonymous functions?
 
 1) Code brevity <br>
-2) Scope management - nonymous functions can be used to create temporary/private scope <br>
+2) Scope management - anonymous functions can be used to create temporary/private scope <br>
 3) Anonymous functions are often handy within the context of closures and recursions. (A whole other talk topic.) <br>
 
 ##Why shouldn't you use anonymous functions?
@@ -55,8 +55,10 @@ _//These all throw exceptions:_ <br>
  	console.log(bar);
 	console.log(baz());
 
-_//To allow access to a variable or function, we need to expose it to the global ‘window’ object._ <br>
-
+_//To allow access to a variable or function, you could refer it to a global object._ <br>
+	
+	var yoyo = {};
+	
 	(function(){
   	   var foo = 'Hello';
   	   var bar = 'World!'
@@ -65,7 +67,7 @@ _//To allow access to a variable or function, we need to expose it to the global
       	   return foo + ' ' + bar;
   	}
 
-	   window.baz = baz; //Assign 'baz' to the global variable 'baz'...
+	   yoyo.baz = baz; //Assign 'baz' to the global variable 'baz'...
 	})();
 
 	console.log(baz()); //...and now this works.
@@ -75,15 +77,9 @@ _//It's important to note that these still won't work:_ <br>
 	console.log(foo);
 	console.log(bar);
 
+####Also note: 
 
-If you create an anonymous function and assign it to a variable immediately when the function is 
-defined then the function can be referenced via that variable in the same way as it could be if you 
-gave the function that name when you created it. The difference is that when you assign an anonymous 
-function to a variable the variable only points to the function from that point in your code onward 
-and you can assign a different value to the variable at any time to replace the function. 
-
-
-// anonymous function assigned to a variable cannot be called before the variable is initialized
+// An anonymous function assigned to a variable cannot be called before the variable is initialized
 	fnAnonymous(); // undefined
 
 	   var fnAnonymous = function(){
@@ -94,7 +90,7 @@ and you can assign a different value to the variable at any time to replace the 
 
 	fnAnonymous(); //hi
 
-// a named function can be accessed anywhere as long as it is within the same scope that the function is created
+// But a named function can be accessed anywhere as long as it is within the same scope that the function is created
 
 	fnNamed(); // hi
 
