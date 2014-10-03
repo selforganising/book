@@ -99,7 +99,7 @@ _Why does this work? Aren't expressions always excuted from top to bottom??
 Function declarations and variable declarations are always moved (hoisted) invisibly to the top of their containing scope by the JavaScript interpreter: 
 
 
-	functionTwo();              ---------------      function functionTwo() {
-	                            | is actually |      };
-	function functionTwo() {    | interpreted |-->       
-	}                           |    like     |      functionTwo();
+	x();             ---------------      function x() {
+	                 | is actually |      };
+	function x() {   | interpreted |-->       
+	}                |    like     |      x();
