@@ -1,6 +1,6 @@
 # One good, one bad
 
-This could also be described as *"One good, one better"* or *"One good in one context and one good in another"*.
+This could also be described as *"One good, one better"* or *"One good in one context and one good in another"*, or even *One bad, one good, one better*.
 
 It is a tweak of the *quick talks*, but with re-defined criteria.
 

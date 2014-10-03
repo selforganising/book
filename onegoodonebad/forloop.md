@@ -45,3 +45,6 @@ Please Note: this only works is the length of the array do not change which it i
 * http://www.openjs.com/articles/for_loop.php
 
 * http://www.sitepoint.com/google-closure-how-not-to-write-javascript/
+
+
+*Natalia, FAC3* 
