@@ -94,3 +94,12 @@ _//It's important to note that these still won't work:_ <br>
 
 ####I.e. an anonymous function is defined at run-time, whereas a named function is processed when execution enters the context in which it appears, before any step-by-step code is executed. 
 
+_Why does this work? Aren't expressions always excuted from top to bottom??
+
+Function declarations and variable declarations are always moved (hoisted) invisibly to the top of their containing scope by the JavaScript interpreter: 
+
+
+	functionTwo();              ---------------      function functionTwo() {
+	                            | is actually |      };
+	function functionTwo() {    | interpreted |-->       
+	}                           |    like     |      functionTwo();
