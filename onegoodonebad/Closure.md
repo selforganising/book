@@ -1,0 +1,2 @@
+Closure in javascript 
+
