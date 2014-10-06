@@ -10,6 +10,9 @@ The tutor role will rotate daily.
 * Maintain and add to a backlog of possible topics on Slack (#tutorials);
 * Present one topic at one of the tutorial sessions;
 * Record your topic by submitting a pull request to the gitbook;
+* Check with the Repo owners, Testers, Sysops and Librarians if they are going to present a tutorial tomorrow;
+* Post tomorrow's tutorial schedule onto Slack before the end of the day;
 * Let me know if you need help with anything.
+
 
 

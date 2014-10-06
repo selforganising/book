@@ -51,6 +51,7 @@
   * [Method chaining](quicktalks/method-chaining.md)
   * [JSON](quicktalks/json.md)
   * [Constructors vs literals](quicktalks/constructorvsliteral.md) 
+  * [Automatic conversions](quicktalks/conversions.md)
 * [One good, one bad](onegoodonebad/README.md)
   * [CSS resets](onegoodonebad/cssresets.md)
   * [Scope](onegoodonebad/scope101.md)
