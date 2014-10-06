@@ -13,13 +13,13 @@ has no prototype, and acts as the final link in this prototype chain.
 ## Inheritance, the __proto__
 
 
-  ```var animal = { eats: true }
+  ``` var animal = { eats: true }
   
   var rabbit = { jumps: true }
   
   rabbit.__proto__ = animal  // inherit
   
-  alert(rabbit.eats) // true```
+  alert(rabbit.eats) // true ```
   
   
   
@@ -29,11 +29,12 @@ the __proto__ link and searches in animal.
 
 
 
-  ```var animal = { eats: true }
+  ``` var animal = { eats: true }
 
   rabbit = Object.create(animal)
 
-  alert(rabbit.eats) // true```
+  alert(rabbit.eats) // true ```
+  
 
 info was taken from [http://javascript.info/tutorial/inheritance]
 
