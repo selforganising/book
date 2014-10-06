@@ -6,16 +6,16 @@ You see these idiomatic expressions in JavaScript frameworks and libraries. Letâ
 
 To set default values, instead of this:
 
-    function documentTitle(theTitle)
-    if (!theTitle) {
-    theTitle  = "Untitled Document";
-    }
+    function documentTitle(theTitle) {
+        if (!theTitle) {
+            theTitle  = "Untitled Document";
+        }
     }
 
 Use this:
 
-    function documentTitle(theTitle)
-    theTitle  = theTitle || "Untitled Document";
+    function documentTitle(theTitle) {
+        theTitle  = theTitle || "Untitled Document";
     }
 
 Explanation:
@@ -32,18 +32,17 @@ Explanation:
 Instead of this:
 
     function isAdult(age) {
-    if (age && age > 17) {
-    return true;
-    }
-    else {
-    return false;
-    }
+        if (age && age > 17) {
+            return true;
+        } else {
+            return false;
+        }
     }
 
 Use this:
 
     function isAdult(age) {
-    return age && age > 17 ;
+        return age && age > 17 ;
     }
 
 Explanation:
@@ -54,10 +53,9 @@ Example 3:
 Instead of this:
 
     if (userName) {
-    logIn (userName);
-    }
-    else {
-    signUp ();
+        logIn (userName);
+    } else {
+        signUp ();
     }
 
 Use this:
@@ -73,10 +71,10 @@ Instead of this:
 
     var userID;
     if (userName && userName.loggedIn) {
-    userID = userName.id;
+        userID = userName.id;
     }
     else {
-    userID = null;
+        userID = null;
     }
 
 Use this:
