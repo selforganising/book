@@ -59,3 +59,4 @@
   * [For loops](onegoodonebad/forloop.md)
   * [Named vs Anonymous functions](onegoodonebad/NamedvsAnnonymousFunctions.md)
   * [New arrays](onegoodonebad/newarraynotation.md)
+  * [&& and ||](onegoodonebad/andor.md)
