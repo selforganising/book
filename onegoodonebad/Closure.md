@@ -1,0 +1,1 @@
+Understand JavaScript Closures 
