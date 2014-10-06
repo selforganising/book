@@ -1,5 +1,4 @@
-##Named & Anonymous Functions
-
+#Named & Anonymous Functions
 
 ###What's good about anonymous functions?
 
@@ -16,13 +15,12 @@
 5) Can make code appear to lack structure and make it more difficult to read <br>
 6) Named functions appear on your stack trace (a report of the active stack frames at a certain point in time during the execution of a program).
 
-
 ###Simple example of named vs. annonymous functions
 
-_//Named_ <br>
+_//Named_
 
 	var foo = 'Hello';
-	    var bar = 'World!';
+	var bar = 'World!';
 
 	function baz(){
 	    return foo  + ' ' + bar;
@@ -30,25 +28,26 @@ _//Named_ <br>
 
 	console.log(baz());
 
-_//Anonymous_ <br>
+_//Anonymous_ 
 
 	(function(){
    	    console.log('Hello World!');
 	})();
 
 The final two parentheses cause everything contained in the preceding parentheses to be executed immediately. 
+
 As JavaScript has function level scoping, all variables and functions defined within the anonymous function aren’t available to the code outside of it.
 
-_//In this example,, foo, bar and baz are not accesible outside of the anonymous function, so they will not console.log._ <br>
+_//In this example, foo, bar and baz are not accesible outside of the anonymous function, so they will not console.log._ <br>
 
-	(function(){
-  	   var foo = 'Hello';
-   	   var bar = 'World!'
+    (function(){
+        var foo = 'Hello';
+   	var bar = 'World!'
   
-  	function baz(){
+        function baz(){
       	   return foo + ' ' + bar;
   	}
-	})();
+    })();
 
 _//These all throw exceptions:_ <br>
 
@@ -58,17 +57,17 @@ _//These all throw exceptions:_ <br>
 
 _//To allow access to a variable or function, you could refer it to a global object._ <br>
 	
-	var yoyo = {};
+    var yoyo = {};
 	
-	(function(){
-  	   var foo = 'Hello';
-  	   var bar = 'World!'
+        (function(){
+  	    var foo = 'Hello';
+  	    var bar = 'World!'
   
-   	function baz(){
-      	   return foo + ' ' + bar;
-  	}
+            function baz(){
+                return foo + ' ' + bar;
+  	    }
 
-	   yoyo.baz = baz; //Assign 'baz' to the global variable 'baz'...
+	    yoyo.baz = baz; //Assign 'baz' to the global variable 'baz'...
 	})();
 
 	console.log(baz()); //...and now this works.
@@ -94,7 +93,7 @@ _//It's important to note that these still won't work:_ <br>
 
 ####I.e. an anonymous function is defined at run-time, whereas a named function is processed when execution enters the context in which it appears, before any step-by-step code is executed. 
 
-_Why does this work? Aren't expressions always excuted from top to bottom??
+_Why does this work? Aren't expressions always excuted from top to bottom??_
 
 Function declarations and variable declarations are always moved (hoisted) invisibly to the top of their containing scope by the JavaScript interpreter: 
 

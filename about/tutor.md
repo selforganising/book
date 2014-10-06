@@ -1,19 +1,15 @@
 # Tutor
 
+The tutor role will rotate daily.
+
 ## Responsibilities
 
-* Make a daily contribution to the Founders & Coders Style Guide;
-* Present it at the afternoon seminar;
-* Produce one extended tutorial for your  blog;
-* Enforce style guidelines within your group.
+* Meet up with the other tutors a day in advance to decide what topics you are each going to present and when;
+* Ensure at the beginning of the day that somebody has been chosen from your team to be tomorrow's tutor;
+* With the other tutors, run the tutorial and code review sessions at 10am, 2pm and 5pm;
+* Maintain and add to a backlog of possible topics on Slack (#tutorials);
+* Present one topic at one of the tutorial sessions;
+* Record your topic by submitting a pull request to the gitbook;
+* Let me know if you need help with anything.
 
-## Inspiration
 
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-* [Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html)
-* [GitHub CSS Styleguide](https://github.com/styleguide/css)
-* [Node.js Style Guide](https://github.com/felixge/node-style-guide)
-
-The style guide is not just about the correct way to write JavaScript, HTML and CSS. Guidelines can also be about how to use Git and GitHub; how to use Jekyll and GitHub pages; how to set up a domain for your blog; how to add content to the DOM; how to do an API call; and just about any technical insight that your group has found useful.
-
-For each daily tutorial, concentrate on understanding and presenting one piece of information. And do not be afraid to suggest corrections and amendments to existing guidelines (but discuss it with the original author first, if you can).

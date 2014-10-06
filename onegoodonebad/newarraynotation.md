@@ -38,7 +38,6 @@ so
 
     var beta = [“I”, “learn”, “JavaScript"]
 
-
 Sources: 
 
 https://coderwall.com/p/h4xm0w
