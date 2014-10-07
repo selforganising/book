@@ -64,3 +64,4 @@
   * [Prototypal inheritance](onegoodonebad/prototypal-inheritance.md)
   * [Scope 102](onegoodonebad/scope102.md)
   * [Recursion](onegoodonebad/recursion.md)
+  * [Switch statements](onegoodonebad/switch.md)
