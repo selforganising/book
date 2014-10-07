@@ -62,3 +62,4 @@
   * [New arrays](onegoodonebad/newarraynotation.md)
   * [&& and ||](onegoodonebad/andor.md)
   * [Prototypal inheritance](onegoodonebad/prototypal-inheritance.md)
+  * [Scope 102](onegoodonebad/scope102.md)
