@@ -52,6 +52,8 @@
   * [JSON](quicktalks/json.md)
   * [Constructors vs literals](quicktalks/constructorvsliteral.md) 
   * [Automatic conversions](quicktalks/conversions.md)
+  * [Heroku](quicktalks/heroku.md)
+  * [package.json](quicktalks/packagejson.md)
 * [One good, one bad](onegoodonebad/README.md)
   * [CSS resets](onegoodonebad/cssresets.md)
   * [Scope](onegoodonebad/scope101.md)
