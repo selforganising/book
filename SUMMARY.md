@@ -54,6 +54,7 @@
   * [Automatic conversions](quicktalks/conversions.md)
   * [Heroku](quicktalks/heroku.md)
   * [package.json](quicktalks/packagejson.md)
+  * [Regular expressions](quicktalks/regexp.md)
 * [One good, one bad](onegoodonebad/README.md)
   * [CSS resets](onegoodonebad/cssresets.md)
   * [Scope](onegoodonebad/scope101.md)
