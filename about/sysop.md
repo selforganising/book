@@ -1,8 +1,17 @@
 # Sysop
 
-The System operator is responsible for introducing new tools to assist the team's build processes.
+The System operator is responsible for setting up new environments and services and introducing new tools to assist the team's build processes.
 
 Sysops are expected to collaborate closely with each other.
+
+## Environments
+
+Environments that sysops should get familiar with, include:
+* Dev invironments on Unix, Mac and PC;
+* Heroku;
+* Database servers.
+
+## Tools
 
 The sysops should concentrate on introducing one new tool at a time, they should agree with the other sysops on which tool to introduce, and they should contribute to a whole-class tutorial on their chosen tool before moving on to the next tool.
 
@@ -15,4 +24,5 @@ Suggested list of build tools:
 * Containers (Docker, Fig)
 * dotfiles
 * Editor tools
+
 

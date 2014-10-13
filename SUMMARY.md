@@ -24,6 +24,7 @@
   * [Week 3](assignments/week3.md)
   * [Week 3 homework](assignments/week3homework.md)
   * [Week 4](assignments/week4.md)
+  * [Week 5](assignments/week5.md)
 * [Week 1](week1/README.md)
   * [Agile](week1/agile.md)
   * [BDD](week1/bdd.md)
