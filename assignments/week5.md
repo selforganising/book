@@ -16,7 +16,8 @@ Robin will be back on Thursday afternoon to review your work.
 
 ## Resources
 
-Cocaine salt prices ([csv](http://foundersandcoders.org/resources/d3/cocaine-salts-price-per-gram.csv))
+* Let's make a map [uk.json](http://bost.ocks.org/mike/map/uk.json) file.
+* Cocaine salt prices ([csv](http://foundersandcoders.org/resources/d3/cocaine-salts-price-per-gram.csv))
 
 ## References
 
