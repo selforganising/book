@@ -1,5 +1,7 @@
 # Week 5: Use D3 to to display the price of cocaine salts around the world
 
+This week's project will be presented by [Robin Houston](https://twitter.com/robinhouston) of [Kiln](http://www.kiln.it/).
+
 D3 is an extraordinary library from the Mike Bostock (see [some of his work for the New York Times here](http://bost.ocks.org/mike/)). You can use it for displaying all sorts of graphical data, but we are going to concentrate on maps, using D3 and TopoJSON.
 
 The task will be to take a CSV file of cocaine salt prices, both wholesale and retail, and represent those prices on a map in any way that you like. 
@@ -21,6 +23,6 @@ Cocaine salt prices ([csv](http://foundersandcoders.org/resources/d3/cocaine-sal
 * [D3](http://d3js.org/)
 * [A minimal example of a map of the world drawn using D3](http://foundersandcoders.org/resources/d3/minimal.html)
 * [Let’s Make a Map](http://bost.ocks.org/mike/map/) by Mike Bostock
-* [Kiln](http://www.kiln.it/)
+
 
 
