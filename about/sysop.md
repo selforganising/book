@@ -1,15 +1,30 @@
 # Sysop
 
-The System operator is responsible for setting up new environments and services and introducing new tools to assist the team's build processes.
+The System operator is responsible for understanding the dev environment, setting up new environments and services and introducing new tools to assist the team's build processes.
 
-Sysops are expected to collaborate closely with each other.
+Sysops are expected to collaborate closely with each other and to present tutorials on all aspects of their work.
 
-## Environments
+## The dev Environment
 
 Environments that sysops should get familiar with, include:
-* Dev invironments on Unix, Mac and PC;
-* Heroku;
-* Database servers.
+* Dev invironments on Unix, Mac and PC
+* Cloud-based dev environments, such as Nitrous.io
+* The Unix command line and essential commands
+* Installing software on Unix
+* The `sudo` command
+* Unix file permissions (`ls -l` and `chmod`)
+* Working with Unix paths (starting with `echo $PATH`)
+* Using homebrew on a mac 
+* Using Cygwin on Windows
+* Installing Unix on a PC or ChromeBook, with e.g. Crouton 
+* Code editors, such as Sublime Text
+* Unix-based editors: Emacs and Vi
+
+## Production environments
+
+* Application hosting, such as Heroku
+* Database hosting, such as Compose.io 
+* General-purpose cloud-based services, such as AWS 
 
 ## Tools
 
