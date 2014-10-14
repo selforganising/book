@@ -1,6 +1,6 @@
 # Tester
 
-Testers are expected to collaborate closely with each other.
+Testers are expected to collaborate closely with each other and to present tutorials on all aspects of their work.
 
 ##Responsibilities
 
