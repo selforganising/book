@@ -1,5 +1,4 @@
-##Event Handling
-##Without JQuery
+##Event Handling without JQuery
 
 How to handle events with JQuery:
 ```
