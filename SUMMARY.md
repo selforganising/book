@@ -12,7 +12,7 @@
   * [Roles](about/roles.md)
   * [Repo owner](about/repo-owner.md)
   * [Tester](about/tester.md)
-  * [Sysop](about/sysop.md)
+  * [DevOps engineer](about/devops.md)
   * [Librarian](about/librarian.md)
   * [Tutor](about/tutor.md)
 * [Assignments](assignments/README.md)
