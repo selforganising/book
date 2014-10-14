@@ -39,6 +39,8 @@
 * [Week 3](week3/README.md)
   * [Control flow]()
   * [BDD with Expres]()
+* [Topics](topics/README.md)
+  * [Agile practices](topics/agile.md) 
 * [Quick talks](quicktalks/README.md)
   * [Comments](quicktalks/comments.md)
   * [Semicolons](quicktalks/semicolons.md)
