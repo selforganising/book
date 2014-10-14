@@ -2,10 +2,11 @@
 
 Classes start at 10am and end at 6pm Monday to Friday. 
 
-* *10am* Morning tutorials
+* 10am Morning scrums
+* *10.15am* Morning tutorials
 * *2pm* Afternoon tutorials
 * *3pm* group and individual catch ups
-* *5pm* Code review and invited speakers
+* *5pm* Code reviews, sprint reviews and invited speakers
 
 Mondays
 * *10am* New project for the week

@@ -4,7 +4,9 @@ Repo owners are expected to collaborate closely with each other.
 
 ##Responsibilities
 
-* Run the daily scrum
+* Run the scrums
+* Set the sprint lengths each week
+* Ensure that sprint planning, review and restrospectives take place
 * Maintain the group's code repository on GitHub
 * Enforce a Git development strategy
 * Present a tutorial on some aspect of their work
