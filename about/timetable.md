@@ -2,8 +2,8 @@
 
 Classes start at 10am and end at 6pm Monday to Friday. 
 
-* *10am* Morning seminar
-* *2pm* Afternoon seminar
+* *10am* Morning tutorials
+* *2pm* Afternoon tutorials
 * *3pm* group and individual catch ups
 * *5pm* Code review and invited speakers
 
@@ -20,6 +20,4 @@ Fridays
 * *3pm* Weekly retrospective: stop, start, continue
 * *4.30pm* Weekly sweep and tidy
 * *4.45pm* Review of learning objectives
-
-
 
