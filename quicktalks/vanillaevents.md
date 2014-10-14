@@ -1,7 +1,7 @@
-#DOM Manipulation
+##Event Handling
 ##Without JQuery
 
-How to manipulate the DOM with JQuery:
+How to handle events with JQuery:
 ```
 $(".btn").click(function(){
   alert("HELLO");
@@ -31,4 +31,5 @@ Maybe 3 more lines of code but no time finding the CDN link, no time making sure
 
 \#govanilla
 
-*Checkout attachEvent for compatibility with IE and Opera (get used to it).
+-Checkout attachEvent for compatibility with IE and Opera (get used to it).
+-Checkout DOM event types
