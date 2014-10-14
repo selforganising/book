@@ -30,7 +30,7 @@ Environments that DevOps engineers should get familiar with, include:
 
 ## Build tools
 
-The DevOp engineers should concentrate on introducing one new tool at a time, they should agree with the other DevOp engineers on which tool to introduce, and they should contribute to a whole-class tutorial on their chosen tool before moving on to the next tool.
+The DevOps engineers should concentrate on introducing one new tool at a time, they should agree with the other DevOps engineers on which tool to introduce, and they should contribute to a whole-class tutorial on their chosen tool before moving on to the next tool.
 
 Suggested list of build tools:
 * CSS preprocessors (SCSS and Sass using Jekyll)
