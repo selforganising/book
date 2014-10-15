@@ -59,6 +59,7 @@
   * [package.json](quicktalks/packagejson.md)
   * [Regular expressions](quicktalks/regexp.md)
   * [Managing remote repos](quicktalks/two-repos.md)
+  * [Event handling](quicktalks/vanillaevents.md)
 * [One good, one bad](onegoodonebad/README.md)
   * [CSS resets](onegoodonebad/cssresets.md)
   * [Scope](onegoodonebad/scope101.md)
