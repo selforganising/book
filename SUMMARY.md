@@ -60,6 +60,7 @@
   * [Regular expressions](quicktalks/regexp.md)
   * [Managing remote repos](quicktalks/two-repos.md)
   * [Event handling](quicktalks/vanillaevents.md)
+  * [GeoJSON and TopoJSON](quicktalks/geotopojson.md)
 * [One good, one bad](onegoodonebad/README.md)
   * [CSS resets](onegoodonebad/cssresets.md)
   * [Scope](onegoodonebad/scope101.md)
