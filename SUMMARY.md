@@ -29,6 +29,7 @@
 * [Week 3](week3/README.md)
 * [Week 4](week4/README.md)
 * [Week 5](week5/README.md)
+  * [PhantomJS](week5/phantomjs.md)  
 * [Week 6](week6/README.md)
 * [Week 7](week7/README.md)
 * [Week 8](week8/README.md)
