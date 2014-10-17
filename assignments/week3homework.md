@@ -1,9 +1,7 @@
-# Week 3 homework
+# Week 3 and 5 homeworks
 
 ##hapi
 
-Two options:
+Work through Makemehapi on [Nodeschool](http://nodeschool.io/).
 
-Either, work through Makemehapi on [Nodeschool](http://nodeschool.io/).
-
-Or, go through the [tutorials](http://hapijs.com/tutorials) on the hapi website.
+Go through the [tutorials](http://hapijs.com/tutorials) on the hapi website.
