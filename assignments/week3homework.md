@@ -1,4 +1,4 @@
-# Week 3 and 5 homeworks
+# Weeks 3 and 5 homework
 
 ##hapi
 
