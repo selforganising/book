@@ -79,5 +79,6 @@
   * [Week 4](assignments/week4.md)
   * [Week 5](assignments/week5.md)
   * [Week 5 homework](assignments/week3homework.md)
+  * [Week 6](assignments/week6.md)
 * [Topics](topics/README.md)
   * [Agile practices](topics/agile.md) 
