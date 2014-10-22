@@ -22,7 +22,7 @@ For established businesses this is usually easier because they have tested, pred
 
 The classic mistake of a new project is overinvesting resource in a 'great idea' which has no known value.
 
-Lean discipline requires that you don't spend any resource on anything which doesn't lead to value creation. So, if you don't **know** what value your can create, you shouldn't spend any resource. First, you need to find out what value you can create.
+Lean discipline requires that you don't spend any resource on anything which doesn't lead to value creation. So, if you don't **know** what value you can create, you shouldn't spend any resource. First, you need to find out what value you can create.
 
 The purpose of this post is to show how lean methodology helps you acheive that.
 
@@ -87,7 +87,7 @@ did he invest any time resource in coding the product up.
 
 Joel nailed it.
 
-He raised $400k money, employs >20 people and runs one of the most sought after startups to work at.
+He raised $400k, employs >20 people and runs one of the most sought after startups to work at.
 
 <br>
 ## One bad - akimbo
@@ -189,7 +189,7 @@ Beautiful, human friendly interfaces in the portfolio are a huge draw.
 
 <br>
 #####Tech
-He doesn't care about the tech stack expect to the extent that he has to interface with it. i.e. is there a GUI at the backend enabling him to maintain a site easily?
+He doesn't care about the tech stack except to the extent that he has to interface with it. i.e. is there a GUI at the backend enabling him to maintain a site easily?
 
 <br>
 #####Thoughts on the Collective value proposition
