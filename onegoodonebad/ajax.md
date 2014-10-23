@@ -30,7 +30,7 @@ What is VanillaJS? If you are not sure, please see first resource.
         	}
     	};
     	httpRequest.open('GET', "yourURL");
-    	httpRequest.send(); 
+    	httpRequest.send();
 	}
 
 	// this requests the file and executes a callback with the parsed result once
