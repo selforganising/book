@@ -1,5 +1,4 @@
 # Summary
-
 * [Introduction](README.md)
 * [About the course](about/README.md)
    * [Collective Academy](about/collective.md)
@@ -35,6 +34,7 @@
    * [PhantomJS](week5/phantomjs.md)
    * [Queue](week5/Queue.md)
 * [Week 6](week6/README.md)
+   * [Programming challenge](challenges/fizzbuzz.md)
 * [Week 7](week7/README.md)
 * [Week 8](week8/README.md)
 * [Quick talks](quicktalks/README.md)
