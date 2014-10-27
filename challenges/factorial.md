@@ -16,4 +16,4 @@ Here are some suggestions:
 
 This is a paired programming exercice. Pair up with the next person who comes through the door.
 
-And don't forget to Write tests.
+And don't forget to write tests.
