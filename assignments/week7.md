@@ -14,20 +14,25 @@ The schedule of the week is as follows:
 * 11am: Pair up in two groups for the first sprint planning meetings
 * 11:30am: Pair up in two groups for the second sprint planning meetings
 * 12pm Return to project groups and identify gaps in knowledge
-* 2pm Get together in *role* groups and identify a critical area of understanding that needs to be researched
+* 2pm *Testers* and *DevOps* get together in *role* groups and ensure that all groups have a full suite of tests using *lab* and a working production environment and logging using *good*. Meanwhile, the remaining team members should get together in groups (but not including their respective clients) to start work on their projects.
 
 ### Tuesday
-Stay in *role* groups and prepare a tutorial on a chosen topic at 2pm. Return to *project* teams and start work.
+2pm *Testers* and *DevOps* present turorials. 
+2.30pm Project teams hand over their respective projects.
+3pm The *Repo owners* and *Librarians* should get together to prepare tutorials for Wednesday. Remaining team members should pair up.
+
+### Wednesday 
+2pm *Repo owners* and *Librarians present tutorials and then everyone returns to their project groups to complete the first sprint.
 
 ###Testers
 Should continue to get familiar with *lab* and ensure that your team are writing adequate tests.
 
+###DevOps
+Should ensure that your project is publishing to a public repo where the client can view it and that the teams are using logging with *good*.
+
 ###Repo owners
 Should ensure that your team is using a sensible branching strategy and sticking to it.
  
-###DevOps
-Should ensure that your project is publishing to a public repo where the client can view it.
-
 ###Librarians
 Should continue to expand your team's knowledge of the Hapi ecosystem.
 
