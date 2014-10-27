@@ -14,4 +14,6 @@ Here are some suggestions:
 * use memoization
 * use invariant programming with an accumulator
 
+This is a paired programming exercice. Pair up with the next person who comes through the door.
+
 And don't forget to Write tests.
