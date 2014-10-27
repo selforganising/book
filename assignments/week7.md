@@ -17,9 +17,9 @@ The schedule of the week is as follows:
 * 2pm *Testers* and *DevOps* get together in *role* groups and ensure that all groups have a full suite of tests using *lab* and a working production environment and logging using *good*. Meanwhile, the remaining team members should get together in groups (but not including their respective clients) to start work on their projects.
 
 ### Tuesday
-2pm *Testers* and *DevOps* present turorials. 
-2.30pm Project teams hand over their respective projects.
-3pm The *Repo owners* and *Librarians* should get together to prepare tutorials for Wednesday. Remaining team members should pair up.
+* 2pm *Testers* and *DevOps* present turorials. 
+* 2.30pm Project teams hand over their respective projects.
+* 3pm The *Repo owners* and *Librarians* should get together to prepare tutorials for Wednesday. Remaining team members should pair up into two groups.
 
 ### Wednesday 
 2pm *Repo owners* and *Librarians present tutorials and then everyone returns to their project groups to complete the first sprint.
