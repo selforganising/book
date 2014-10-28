@@ -51,6 +51,7 @@
 * [Week 7](week7/README.md)
    * [Week 7 assignment](assignments/week7.md)
    * [Programming challenge 2](challenges/factorial.md)
+   * [Programming challenge 3](challenges/reverse.md)
 * [Week 8](week8/README.md)
 * [Quick talks](quicktalks/README.md)
    * [Comments](quicktalks/comments.md)
