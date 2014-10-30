@@ -53,6 +53,7 @@
    * [Challenge 2](challenges/factorial.md)
    * [Challenge 3](challenges/reverse.md)
    * [Challenge 4](challenges/palindrome.md)
+   * [Challenge 5](challenges/euler.md)
 * [Week 8](week8/README.md)
    * [Prerequisite](assignments/week8hw.md)
 * [Quick talks](quicktalks/README.md)
