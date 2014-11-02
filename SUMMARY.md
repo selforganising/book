@@ -56,6 +56,7 @@
    * [Challenge 5](challenges/euler.md)
 * [Week 8](week8/README.md)
    * [Prerequisite](assignments/week8hw.md)
+   * [Week 8, Assignment 1](assignments/week8a.md)
 * [Quick talks](quicktalks/README.md)
    * [Comments](quicktalks/comments.md)
    * [Semicolons](quicktalks/semicolons.md)

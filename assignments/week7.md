@@ -9,7 +9,6 @@ Meanwhile, you should continue to explore Hapi, including:
 * Caching using *catbox*
 * Logging with *good*
 
-
 The schedule of the week is as follows:
 
 ### Monday
