@@ -1,4 +1,4 @@
-# Week 8: Assignment 1. 
+# Week 8: Assignment 1
 
 ## Re-write a TodoMVC app
 
