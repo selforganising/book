@@ -96,4 +96,5 @@
    * [Lean](onegoodonebad/lean.md)
 * [Topics](topics/README.md)
    * [Agile practices](topics/agile.md)
+   * [HTML rules of thumb](topics/html.md)
 
