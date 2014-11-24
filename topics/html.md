@@ -2,7 +2,7 @@
 
 ###Take care of using tags unsupported by older browsers
 
-For example, be aware that the `vw`, `vh`, `vmin`, `vmax`, are as of late-2014, unsupported by around 20% of browsers. If in doubt, check [Can I use](http://caniuse.com/).
+For example, be aware that the `vw`, `vh`, `vmin`, `vmax` are, as of late-2014, unsupported by around 20% of browsers. If in doubt, check [Can I use](http://caniuse.com/).
 
 ###On the whole, use *em* not *px*
 
@@ -20,6 +20,6 @@ If you are using Bootstrap, for example, you are likely to have a layout that lo
       </div>
     </div>
 
-Try to avoid adding any additional *divs* between the *container*, the *row* and the *col*. If you want to add behaviour, then add an additional class within an appropriateexisting *div*.
+Try to avoid adding any additional *divs* between the *container*, the *row* and the *col*. If you want to add behaviour, then add an additional class within an appropriate existing *div*.
 
 [in progress]
