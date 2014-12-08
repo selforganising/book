@@ -1,54 +1,42 @@
-# Week 6
+# Week 6: build a blog using *hapi*
 
-This week is going to be a bit different. Each table will start work on its own project.
+The blog should have the following elements:
 
-But before you get started, there are a number of tools and libraries to get familiar with.
+* Submission of new blog entries
+* Viewing of existing entries
+* Editing of existing blog entries
+* Listing of all blog entries
 
-##express.js 
+You should build your blog step by step, as follows:
 
-A web application framework for Node.js. [Express](http://expressjs.com/) will give you a higher level of abtraction than Node.js on its own. Once you have learnt the basics, it will make web app development quicker.
+* Write acceptance tests
+* Build a JSON API using RESTful routes
+* Save and retrieve entries using a MongoDB database
+* Add HTML pages using templates
 
-Take a look at [Getting started](http://expressjs.com/guide.html).
+for your second sprint, you should aim to add:
+* User registration using *hapi-auth-basic* and *bell*
+* Caching using *catbox*
+* Logging with *good*
+* Rich-text editing
 
-##Databases
+Before starting on this project, you should spend time in role-based groups as follows:
 
-Databases are a big topic, but we are going to get familiar with [MongoDB](http://www.mongodb.org/). This is the most widely-used NoSQL database and is a good fit for Node.js.
+###Testers
+Research testing using *lab* and error handling with *boom*.
 
-##Templating engines
+###Repo owners
+Research RESTful routes and routing in hapi
+ 
+###DevOps
+Research validation with *joi* and connecting to MongoDB
 
-you are already familiar with Jekyll. We are now going to get to know [jade.js](http://jade-lang.com/), a widely-used Node template engine.
+###Librarians
+Research templating libraries, including Swig and Jade.
 
-##Code linting
+### Quick talks and code reviews
 
-We should all be using a code linting tool to detect errors in our code. 
+Each group will be expected to present a quick talk at 2pm.
 
-For JavaScript developers, that means using [JSHint](http://jshint.com/).
-
-For those of you using Sublime Text, take a look at [How To Use SublimeLinter 3](http://youtu.be/u6fvJRao-E4).
-
-##Test frameworks
-
-We are going to use [jasmine](http://jasmine.github.io/), a JavaScript testing framework. Developed by Pivotal, who also created PivotalTracker.
-
-##Stylesheet languages
-
-You may have come across mentions of [Sass](http://sass-lang.com/) or [Less](http://lesscss.org/), or even [stylus](http://learnboost.github.io/stylus/). Try Sass first, with the SCSS syntax.
-
-## Frontend build tools
-
-We are going to use [Gulp](http://gulpjs.com/) ("the streaming build system"); [Bower](http://bower.io/) for managing dependencies in frontend code; and [Yeoman](http://yeoman.io/learning/) for creating application scaffolding.
-
-##Docker - *optional*
-
-[Docker](https://www.docker.com/) allows you to replicate your application environment anywhere, so that you can deploy your application anywhere quickly--either for develpoment or deployment.
-
-##Mobile app development - *optional*
-
-There are several options, here including Titanium, Steroids, Trigger and actually learning Java and Objective-C, but we are going to use [Apache Cordova](http://cordova.apache.org/) (previously known as PhoneGap).
-
-Where to start? 
-
-Here: [THE DEAD-SIMPLE STEP-BY-STEP GUIDE FOR FRONT-END DEVELOPERS TO GETTING UP AND RUNNING WITH NODE.JS, EXPRESS, JADE, AND MONGODB](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
-
-We will try to fill in more detail as we go.
+You will then all return to your teams and we will have code reviews at 5pm.
 

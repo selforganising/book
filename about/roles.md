@@ -4,7 +4,7 @@ As well as working on different parts of the project together, there will be fou
 
 * Repo owner
 * Tester
-* Sysop
+* DevOps engineer
 * Librarian
 
 The roles will be rotated each week.

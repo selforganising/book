@@ -2,9 +2,12 @@
 
 Classes start at 10am and end at 6pm Monday to Friday. 
 
-* *10am* Morning lecture
-* *2pm* Afternoon seminar
-* *5pm* Code review and lightning talks
+* 9.30am Morning coding challenge
+* 10am Morning scrums
+* *10.15am* Morning tutorials
+* *1pm* Afternoon tutorials
+* *3pm* group and individual catch ups
+* *5pm* Code reviews, sprint reviews and invited speakers
 
 Mondays
 * *10am* New project for the week
@@ -12,10 +15,11 @@ Mondays
 Tuesdays
 * 5.30pm weekly strategy group
 
+Thursdays
+* *9am* Weekly business planning meeting
+
 Fridays
-* *2pm* Weekly retrospective: stop, start, continue
+* *3pm* Weekly retrospective: stop, start, continue
 * *4.30pm* Weekly sweep and tidy
 * *4.45pm* Review of learning objectives
-
-
 

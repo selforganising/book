@@ -113,3 +113,5 @@ If arrays are *special* objects how will I know if it is an array?
 	function isArray(myArray) {
     return myArray.constructor.toString().indexOf("Array") > -1;
 }
+
+*Emma, FAC3*
